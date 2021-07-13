@@ -1,0 +1,8907 @@
+a: 3830
+of: 3311
+is: 1707
+that: 1262
+with: 883
+film: 822
+an: 754
+its: 699
+this: 666
+it's: 564
+movie: 510
+you: 494
+on: 424
+be: 419
+by: 380
+has: 379
+not: 367
+one: 366
+at: 366
+about: 363
+from: 349
+are: 348
+his: 344
+is a: 333
+more: 311
+in the: 297
+all: 289
+than: 282
+the film: 282
+like: 281
+if: 264
+have: 259
+story: 256
+who: 247
+most: 240
+what: 225
+of a: 217
+into: 213
+so: 209
+and the: 209
+will: 199
+good: 198
+to the: 197
+comedy: 192
+or: 189
+i: 181
+funny: 181
+even: 180
+out: 178
+their: 175
+it is: 169
+best: 166
+can: 166
+some: 164
+way: 164
+to be: 161
+with a: 158
+time: 158
+us: 156
+much: 154
+up: 154
+one of: 153
+make: 151
+love: 149
+just: 148
+makes: 144
+life: 144
+characters: 144
+may: 141
+and a: 140
+work: 139
+performances: 138
+it's a: 137
+your: 135
+very: 135
+in a: 133
+little: 129
+enough: 127
+on the: 125
+as a: 125
+this is: 123
+while: 123
+her: 123
+for the: 123
+no: 120
+still: 120
+director: 119
+look: 119
+the movie: 118
+there: 118
+well: 117
+both: 114
+fun: 113
+movies: 111
+drama: 111
+new: 110
+the most: 110
+never: 110
+those: 109
+films: 109
+we: 108
+when: 107
+great: 105
+which: 104
+with the: 103
+only: 103
+does: 100
+at the: 99
+any: 99
+film is: 99
+he: 97
+also: 97
+but it: 97
+been: 97
+two: 96
+they: 96
+performance: 96
+see: 96
+that's: 94
+too: 94
+through: 92
+entertaining: 92
+cast: 90
+how: 90
+though: 90
+the best: 90
+without: 89
+own: 89
+heart: 88
+them: 88
+people: 88
+world: 88
+many: 87
+documentary: 86
+something: 84
+made: 84
+a movie: 84
+first: 84
+could: 84
+ever: 82
+about the: 82
+of its: 82
+that is: 82
+a film: 81
+humor: 81
+tale: 80
+in its: 80
+from the: 80
+as the: 79
+film that: 79
+human: 79
+doesn't: 78
+family: 78
+often: 77
+sense: 77
+between: 77
+big: 77
+because: 76
+being: 75
+has a: 75
+into the: 74
+our: 74
+would: 74
+film's: 74
+romantic: 73
+real: 73
+yet: 73
+was: 73
+thriller: 73
+there's: 72
+other: 72
+such: 71
+the film's: 71
+picture: 70
+compelling: 70
+american: 70
+take: 69
+worth: 69
+de: 69
+kind: 69
+get: 68
+character: 68
+by the: 68
+but it's: 68
+really: 67
+works: 67
+should: 67
+audience: 67
+better: 66
+is the: 66
+seen: 66
+cinema: 65
+as it: 65
+far: 65
+moving: 65
+look at: 65
+every: 64
+full: 63
+a good: 62
+music: 62
+you're: 62
+is an: 62
+these: 62
+kind of: 62
+for a: 62
+movie that: 62
+isn't: 62
+feel: 61
+like a: 61
+don't: 61
+sense of: 61
+moments: 61
+hollywood: 61
+my: 60
+might: 60
+screen: 60
+all the: 60
+years: 59
+fascinating: 59
+long: 59
+gives: 59
+in this: 59
+part: 59
+to a: 59
+plot: 59
+off: 58
+piece: 58
+over: 58
+right: 58
+action: 58
+quite: 57
+few: 56
+the story: 56
+to make: 55
+here: 55
+young: 55
+history: 55
+do: 55
+emotional: 55
+if you: 54
+that the: 54
+always: 54
+times: 54
+man: 54
+almost: 53
+original: 53
+enjoyable: 53
+manages: 52
+lot: 52
+nothing: 52
+takes: 52
+another: 52
+sometimes: 51
+itself: 51
+experience: 51
+sweet: 51
+interesting: 51
+go: 50
+offers: 50
+give: 50
+to see: 50
+end: 50
+more than: 50
+portrait: 50
+comes: 49
+actors: 49
+less: 49
+watching: 49
+this film: 49
+find: 49
+seems: 49
+the way: 48
+but the: 48
+movie is: 48
+year: 48
+watch: 48
+keep: 48
+entertainment: 47
+powerful: 47
+back: 47
+bit: 47
+once: 47
+ultimately: 46
+true: 46
+kids: 46
+smart: 46
+old: 46
+together: 46
+style: 46
+of his: 46
+acting: 46
+cinematic: 46
+you'll: 46
+despite: 46
+come: 46
+rare: 45
+want: 45
+a great: 45
+manages to: 45
+charming: 45
+gets: 45
+beautiful: 45
+a lot: 45
+mr: 45
+scenes: 45
+subject: 45
+solid: 45
+portrait of: 45
+may be: 44
+engaging: 44
+beautifully: 44
+charm: 44
+intelligent: 44
+rather: 44
+of an: 44
+the first: 44
+culture: 43
+out of: 43
+enough to: 43
+is not: 43
+that it: 42
+down: 42
+art: 42
+can't: 42
+after: 42
+there is: 42
+into a: 41
+a little: 41
+whose: 41
+this movie: 41
+fans: 41
+power: 41
+touching: 41
+study: 41
+dark: 41
+had: 40
+know: 40
+before: 40
+thing: 40
+delivers: 40
+again: 40
+with an: 40
+hard: 39
+a very: 39
+genre: 39
+least: 39
+pretty: 39
+french: 39
+lives: 38
+think: 38
+than the: 38
+strong: 38
+is that: 38
+to watch: 38
+then: 38
+romantic comedy: 38
+its own: 38
+and his: 38
+script: 38
+visual: 38
+where: 38
+women: 38
+war: 38
+feature: 38
+surprisingly: 38
+comic: 38
+making: 37
+since: 37
+deeply: 37
+for its: 37
+face: 37
+you can: 37
+last: 37
+terrific: 37
+me: 37
+although: 37
+he's: 36
+clever: 36
+by a: 36
+ride: 36
+away: 36
+be a: 36
+journey: 36
+on a: 36
+same: 36
+funny and: 36
+of this: 36
+say: 36
+is one: 36
+going: 35
+modern: 35
+him: 35
+special: 35
+the same: 35
+the kind: 35
+fine: 35
+star: 35
+need: 34
+fresh: 34
+familiar: 34
+anyone: 34
+it has: 34
+under: 34
+intriguing: 34
+dialogue: 34
+show: 34
+feels: 34
+feeling: 34
+enjoy: 34
+won't: 34
+hilarious: 34
+direction: 34
+full of: 34
+about a: 34
+piece of: 34
+material: 34
+place: 33
+honest: 33
+minutes: 33
+coming-of-age: 33
+perfect: 33
+may not: 33
+especially: 33
+have been: 33
+the end: 33
+tale of: 33
+each: 33
+amusing: 32
+as well: 32
+filmmaker: 32
+easy: 32
+spirit: 32
+now: 32
+horror: 32
+engrossing: 32
+not a: 32
+narrative: 32
+with its: 32
+wonderful: 32
+and an: 32
+of those: 32
+warm: 32
+different: 31
+thoughtful: 31
+a few: 31
+a fascinating: 31
+around: 31
+there are: 31
+as an: 31
+day: 31
+quirky: 31
+romance: 31
+message: 31
+the characters: 31
+satisfying: 31
+filmmaking: 31
+rich: 31
+things: 31
+mind: 30
+through the: 30
+recent: 30
+complex: 30
+psychological: 30
+were: 30
+adventure: 30
+energy: 30
+film about: 30
+if you're: 30
+seem: 30
+home: 30
+a bit: 30
+debut: 30
+summer: 30
+is so: 29
+some of: 29
+like the: 29
+at times: 29
+done: 29
+mostly: 29
+personal: 29
+it's not: 29
+shows: 29
+laughs: 29
+matter: 29
+and its: 29
+she: 29
+point: 29
+tone: 29
+the performances: 29
+images: 29
+not only: 29
+brilliant: 29
+political: 29
+proves: 29
+three: 29
+provides: 28
+want to: 28
+beauty: 28
+from a: 28
+captures: 28
+effort: 28
+much of: 28
+simply: 28
+help: 28
+role: 28
+eyes: 28
+the year: 28
+children: 28
+high: 28
+quiet: 28
+pleasure: 28
+have a: 28
+such a: 28
+simple: 28
+remarkable: 28
+if the: 28
+small: 28
+leave: 28
+passion: 28
+actually: 28
+well as: 27
+everything: 27
+gentle: 27
+make it: 27
+stuff: 27
+become: 27
+wit: 27
+bad: 27
+to keep: 27
+nearly: 27
+anything: 27
+ways: 27
+filmmakers: 27
+even if: 27
+film with: 27
+witty: 27
+mood: 27
+version: 27
+y: 27
+those who: 26
+turns: 26
+stories: 26
+movie's: 26
+everyone: 26
+it does: 26
+light: 26
+whole: 26
+certainly: 26
+whether: 26
+part of: 26
+a compelling: 26
+against: 26
+level: 26
+to get: 26
+shot: 26
+work of: 26
+has the: 26
+is in: 26
+effects: 26
+in his: 26
+sure: 26
+can be: 26
+easily: 26
+gorgeous: 26
+form: 26
+along: 26
+memorable: 26
+characters and: 26
+screenplay: 25
+care: 25
+seeing: 25
+so much: 25
+in which: 25
+play: 25
+a way: 25
+most of: 25
+book: 25
+animated: 25
+girl: 25
+truly: 25
+it's the: 25
+lot of: 25
+uses: 25
+above: 25
+excellent: 25
+sad: 25
+must: 25
+in an: 25
+past: 25
+examination: 25
+examination of: 25
+what makes: 25
+set: 25
+up to: 25
+thanks: 25
+directed: 25
+but also: 25
+men: 25
+visually: 25
+at least: 25
+camera: 25
+epic: 24
+perfectly: 24
+is as: 24
+a story: 24
+hard to: 24
+flick: 24
+comedy that: 24
+story and: 24
+sharp: 24
+surprising: 24
+unexpected: 24
+put: 24
+himself: 24
+at its: 24
+delightful: 24
+flaws: 24
+believe: 24
+to find: 24
+what's: 24
+knows: 24
+serious: 24
+probably: 24
+the audience: 24
+for all: 24
+classic: 24
+deep: 24
+goes: 24
+storytelling: 24
+you've: 24
+be the: 23
+vision: 23
+effective: 23
+why: 23
+the movie's: 23
+occasionally: 23
+brings: 23
+ideas: 23
+o: 23
+movie with: 23
+that it's: 23
+and it's: 23
+short: 23
+it's an: 23
+michael: 23
+a solid: 23
+among: 23
+that will: 23
+emotions: 23
+makes it: 23
+strange: 23
+inventive: 23
+events: 23
+impossible: 23
+usual: 23
+thanks to: 23
+not be: 23
+with such: 23
+poignant: 23
+job: 23
+acted: 23
+flawed: 23
+moral: 23
+trying: 23
+highly: 23
+to have: 22
+of all: 22
+the heart: 22
+what it: 22
+love story: 22
+ending: 22
+que: 22
+la: 22
+the screen: 22
+suspense: 22
+either: 22
+reality: 22
+sexual: 22
+death: 22
+dramatic: 22
+told: 22
+winning: 22
+the right: 22
+of their: 22
+remains: 22
+comedies: 22
+has been: 22
+despite its: 22
+better than: 22
+intimate: 22
+is more: 22
+worthy: 22
+audiences: 22
+predictable: 22
+actor: 22
+subtle: 22
+truth: 22
+that makes: 22
+to its: 22
+appealing: 22
+and in: 22
+and even: 22
+hours: 22
+and it: 22
+of love: 22
+sex: 22
+cool: 22
+it doesn't: 21
+nice: 21
+story that: 21
+lacks: 21
+unique: 21
+film of: 21
+animation: 21
+refreshing: 21
+pure: 21
+on its: 21
+the big: 21
+the world: 21
+important: 21
+force: 21
+boy: 21
+likely: 21
+keeps: 21
+impressive: 21
+one that: 21
+of one: 21
+makes the: 21
+looking: 21
+if it: 21
+of it: 21
+melodrama: 21
+theater: 21
+story of: 21
+got: 21
+reveals: 21
+creates: 21
+it all: 21
+entirely: 21
+others: 21
+bring: 21
+the cast: 21
+creative: 21
+found: 21
+it may: 21
+trying to: 21
+could have: 21
+genuine: 20
+masterpiece: 20
+disturbing: 20
+way to: 20
+would be: 20
+turn: 20
+series: 20
+novel: 20
+of our: 20
+slow: 20
+the more: 20
+absorbing: 20
+viewers: 20
+riveting: 20
+close: 20
+process: 20
+memory: 20
+completely: 20
+relationships: 20
+otherwise: 20
+nature: 20
+just as: 20
+somewhat: 20
+a big: 20
+treat: 20
+at a: 20
+particularly: 20
+definitely: 20
+imagination: 20
+live: 20
+to say: 20
+fantasy: 20
+able: 20
+able to: 20
+appeal: 20
+up for: 20
+rarely: 20
+tragedy: 20
+drama that: 20
+you don't: 20
+fairly: 20
+adaptation: 20
+unsettling: 20
+than a: 20
+contemporary: 20
+perhaps: 19
+refreshingly: 19
+because it: 19
+a real: 19
+captures the: 19
+a new: 19
+is still: 19
+sensitive: 19
+should be: 19
+year's: 19
+will be: 19
+of life: 19
+ability: 19
+imax: 19
+possible: 19
+sequel: 19
+the original: 19
+magic: 19
+social: 19
+urban: 19
+welcome: 19
+half: 19
+age: 19
+friendship: 19
+i'm: 19
+of what: 19
+becomes: 19
+throughout: 19
+david: 19
+humor and: 19
+have to: 19
+seems to: 19
+film has: 19
+read: 19
+see it: 19
+looks: 19
+subject matter: 19
+relationship: 19
+second: 19
+colorful: 19
+is to: 19
+instead: 19
+skin: 19
+haunting: 19
+insight: 18
+game: 18
+quality: 18
+air: 18
+working: 18
+lovely: 18
+disney: 18
+happy: 18
+ensemble: 18
+that has: 18
+triumph: 18
+while the: 18
+female: 18
+finally: 18
+the very: 18
+exactly: 18
+way that: 18
+style and: 18
+in their: 18
+parents: 18
+certain: 18
+intelligence: 18
+as much: 18
+a smart: 18
+gripping: 18
+plays: 18
+that you: 18
+affecting: 18
+hit: 18
+middle: 18
+issues: 18
+and often: 18
+given: 18
+emotionally: 18
+hope: 18
+and their: 18
+written: 18
+vivid: 18
+themselves: 18
+their own: 18
+artist: 18
+story is: 18
+earnest: 18
+inside: 18
+woman: 18
+film to: 18
+black: 18
+it a: 18
+power of: 18
+thought: 18
+considerable: 18
+in years: 18
+ambitious: 18
+going to: 17
+eye: 17
+provocative: 17
+amazing: 17
+grant: 17
+to give: 17
+make the: 17
+e: 17
+es: 17
+case: 17
+a strong: 17
+begins: 17
+the whole: 17
+would have: 17
+pleasant: 17
+living: 17
+felt: 17
+us to: 17
+to take: 17
+view: 17
+thoroughly: 17
+filled: 17
+allows: 17
+idea: 17
+head: 17
+gem: 17
+scene: 17
+film but: 17
+soul: 17
+realistic: 17
+period: 17
+moments of: 17
+his own: 17
+production: 17
+mesmerizing: 17
+warmth: 17
+as you: 17
+thought-provoking: 17
+elements: 17
+line: 17
+not to: 17
+change: 17
+taking: 17
+depth: 17
+performances from: 17
+wild: 17
+sort: 17
+cultural: 17
+meditation: 17
+creepy: 17
+a fine: 17
+good time: 17
+performances and: 17
+expect: 17
+you won't: 17
+upon: 17
+use: 17
+by its: 17
+delicate: 17
+when it: 17
+as if: 17
+watchable: 17
+the plot: 17
+and most: 17
+themes: 17
+adults: 17
+beyond: 17
+over the: 17
+i've: 17
+and some: 17
+puts: 17
+touch: 17
+succeeds: 17
+words: 16
+road: 16
+surprises: 16
+it will: 16
+act: 16
+days: 16
+attention: 16
+mark: 16
+the picture: 16
+else: 16
+america: 16
+from its: 16
+deftly: 16
+next: 16
+but a: 16
+the year's: 16
+exciting: 16
+grief: 16
+filled with: 16
+unlike: 16
+deal: 16
+minor: 16
+humanity: 16
+formula: 16
+plenty: 16
+performances by: 16
+comedy with: 16
+john: 16
+best of: 16
+take on: 16
+lead: 16
+difficult: 16
+and as: 16
+wedding: 16
+man's: 16
+grace: 16
+i have: 16
+with some: 16
+meditation on: 16
+of her: 16
+sexy: 16
+places: 16
+interest: 16
+stunning: 16
+that are: 16
+talent: 16
+guys: 16
+at once: 16
+it was: 16
+era: 16
+old-fashioned: 16
+quietly: 16
+and ultimately: 16
+extraordinary: 16
+lost: 16
+the power: 16
+bit of: 16
+love and: 16
+story about: 16
+this one: 16
+approach: 16
+film and: 16
+city: 16
+each other: 16
+popcorn: 16
+of that: 16
+and more: 16
+premise: 16
+crafted: 16
+stylish: 16
+overall: 16
+a powerful: 16
+a more: 16
+make a: 15
+utterly: 15
+out the: 15
+pace: 15
+it would: 15
+of two: 15
+far more: 15
+means: 15
+bond: 15
+are so: 15
+exhilarating: 15
+and at: 15
+an engaging: 15
+finds: 15
+hits: 15
+intense: 15
+actress: 15
+obvious: 15
+rather than: 15
+ability to: 15
+but i: 15
+sophisticated: 15
+crime: 15
+ultimate: 15
+impact: 15
+between the: 15
+the last: 15
+originality: 15
+giving: 15
+deserves: 15
+–: 15
+that we: 15
+a certain: 15
+very funny: 15
+insightful: 15
+a terrific: 15
+even the: 15
+it to: 15
+hero: 15
+remarkably: 15
+you to: 15
+call: 15
+several: 15
+performances are: 15
+side: 15
+twists: 15
+project: 15
+spielberg: 15
+sort of: 15
+and funny: 15
+getting: 15
+writing: 15
+character study: 15
+of these: 15
+ages: 15
+historical: 15
+needs: 15
+successful: 15
+there's no: 15
+having: 15
+silly: 15
+during: 15
+used: 15
+all its: 15
+chilling: 15
+blend: 15
+fan: 15
+all of: 15
+jackson: 15
+tragic: 15
+did: 15
+questions: 15
+satire: 15
+share: 15
+fact: 15
+wonderfully: 15
+what is: 15
+dream: 15
+loss: 15
+out to: 15
+a young: 15
+cast is: 15
+convincing: 15
+edge: 15
+than it: 15
+red: 15
+ever made: 14
+pulls: 14
+slice: 14
+offers a: 14
+slice of: 14
+is its: 14
+four: 14
+fare: 14
+it's also: 14
+treasure: 14
+there's a: 14
+title: 14
+sound: 14
+glimpse: 14
+movie about: 14
+tender: 14
+open: 14
+behind: 14
+surprise: 14
+alive: 14
+mystery: 14
+you can't: 14
+imaginative: 14
+life in: 14
+create: 14
+unusual: 14
+previous: 14
+2: 14
+people who: 14
+tell: 14
+manner: 14
+talented: 14
+and very: 14
+delight: 14
+and yet: 14
+special effects: 14
+are the: 14
+far from: 14
+lively: 14
+decades: 14
+slight: 14
+conflict: 14
+with his: 14
+to his: 14
+striking: 14
+its best: 14
+a work: 14
+which is: 14
+slightly: 14
+strength: 14
+apart: 14
+detail: 14
+absolutely: 14
+a wonderful: 14
+energetic: 14
+didn't: 14
+movie and: 14
+based: 14
+couple: 14
+within: 14
+nicely: 14
+heartfelt: 14
+the time: 14
+affection: 14
+alone: 14
+the usual: 14
+wry: 14
+wonder: 14
+in all: 14
+the filmmakers: 14
+laugh: 14
+vividly: 14
+spy: 14
+pleasures: 14
+heartwarming: 14
+challenging: 14
+is at: 14
+stand: 14
+fast: 14
+remake: 14
+that i: 14
+most part: 14
+version of: 14
+final: 14
+an enjoyable: 14
+odd: 14
+worthwhile: 14
+universal: 14
+is funny: 14
+latest: 14
+mix: 14
+success: 14
+ii: 14
+moment: 14
+charming and: 14
+ends: 14
+opera: 14
+it also: 14
+study of: 14
+rock: 13
+steven: 13
+and that: 13
+huge: 13
+start: 13
+hell: 13
+worth seeing: 13
+greatest: 13
+imagery: 13
+for those: 13
+master: 13
+the new: 13
+el: 13
+of us: 13
+reason: 13
+career: 13
+playful: 13
+loved: 13
+a long: 13
+chance: 13
+to look: 13
+still a: 13
+sports: 13
+from his: 13
+detailed: 13
+level of: 13
+writer-director: 13
+deeper: 13
+for this: 13
+the people: 13
+s: 13
+teen: 13
+left: 13
+the real: 13
+cliches: 13
+but its: 13
+date: 13
+if not: 13
+moviemaking: 13
+video: 13
+spare: 13
+offer: 13
+natural: 13
+fully: 13
+daring: 13
+frame: 13
+best films: 13
+polished: 13
+is just: 13
+ones: 13
+taste: 13
+how to: 13
+presents: 13
+musical: 13
+remember: 13
+the human: 13
+that could: 13
+movie has: 13
+williams: 13
+holds: 13
+meaning: 13
+viewer: 13
+politics: 13
+exploration: 13
+sentimental: 13
+but not: 13
+and to: 13
+the theater: 13
+they are: 13
+respect: 13
+an intelligent: 13
+up in: 13
+terms: 13
+until: 13
+performance by: 13
+off the: 13
+it's still: 13
+but this: 13
+this year: 13
+clear: 13
+he has: 13
+up the: 13
+is about: 13
+into an: 13
+casting: 13
+genuinely: 13
+to it: 13
+blend of: 13
+class: 13
+much more: 13
+generally: 13
+dazzling: 13
+world's: 13
+its characters: 13
+created: 13
+by an: 13
+document: 13
+bittersweet: 13
+a small: 13
+chemistry: 13
+company: 13
+japanese: 13
+and then: 13
+as one: 13
+situation: 13
+who are: 13
+make you: 13
+and for: 13
+robert: 13
+sets: 13
+of being: 13
+an interesting: 13
+problems: 13
+viewing: 13
+when the: 13
+your heart: 13
+cannot: 12
+low-key: 12
+question: 12
+points: 12
+melodramatic: 12
+however: 12
+film from: 12
+might be: 12
+charisma: 12
+martha: 12
+even though: 12
+—: 12
+potential: 12
+intended: 12
+british: 12
+son: 12
+struggle: 12
+constructed: 12
+painful: 12
+accomplished: 12
+iranian: 12
+dance: 12
+flair: 12
+sincere: 12
+it's hard: 12
+enjoyed: 12
+execution: 12
+try: 12
+excitement: 12
+a sense: 12
+feel-good: 12
+resonant: 12
+story with: 12
+roles: 12
+to tell: 12
+desire: 12
+but still: 12
+theme: 12
+and is: 12
+is what: 12
+marks: 12
+spectacular: 12
+balance: 12
+george: 12
+pictures: 12
+to do: 12
+general: 12
+aspects: 12
+you will: 12
+return: 12
+count: 12
+hand: 12
+captivating: 12
+clever and: 12
+well-acted: 12
+girls: 12
+sides: 12
+away from: 12
+sweet and: 12
+perspective: 12
+equally: 12
+forget: 12
+lives of: 12
+accessible: 12
+is also: 12
+takes a: 12
+and touching: 12
+you have: 12
+depiction: 12
+dumb: 12
+fat: 12
+it makes: 12
+exploration of: 12
+with all: 12
+surreal: 12
+society: 12
+poetry: 12
+liked: 12
+is it: 12
+vibrant: 12
+hour: 12
+the actors: 12
+a look: 12
+worth the: 12
+identity: 12
+you feel: 12
+and beautifully: 12
+makes up: 12
+heart and: 12
+runs: 12
+and moving: 12
+inspired: 12
+or the: 12
+leaves: 12
+skill: 12
+faith: 12
+delivers a: 12
+even more: 12
+director's: 12
+though the: 12
+a sweet: 12
+oscar: 12
+under the: 12
+than its: 12
+leads: 12
+cast and: 12
+the world's: 12
+to this: 12
+credit: 12
+moving and: 12
+una: 12
+bright: 12
+cut: 12
+unfolds: 12
+one is: 12
+world of: 12
+all in: 12
+decent: 12
+heaven: 12
+stage: 12
+cold: 12
+beneath: 12
+oddly: 12
+tension: 12
+lets: 12
+evil: 12
+of your: 12
+j: 11
+somehow: 11
+and all: 11
+a thoughtful: 11
+evocative: 11
+standard: 11
+cute: 11
+ms: 11
+spooky: 11
+in her: 11
+though it: 11
+rest: 11
+yarn: 11
+makes a: 11
+you think: 11
+many of: 11
+hearts: 11
+or not: 11
+the other: 11
+violence: 11
+startling: 11
+are all: 11
+hold: 11
+gone: 11
+gritty: 11
+entire: 11
+the director: 11
+but in: 11
+battle: 11
+subjects: 11
+indeed: 11
+century: 11
+because of: 11
+short of: 11
+sequences: 11
+parts: 11
+big screen: 11
+prove: 11
+space: 11
+merely: 11
+picture of: 11
+mike: 11
+win: 11
+played: 11
+plenty of: 11
+fans of: 11
+faithful: 11
+running: 11
+capture: 11
+that even: 11
+maybe: 11
+all that: 11
+performances of: 11
+business: 11
+heartbreaking: 11
+timely: 11
+result: 11
+typical: 11
+movie but: 11
+being a: 11
+large: 11
+characters are: 11
+you might: 11
+an intriguing: 11
+of movie: 11
+on his: 11
+depiction of: 11
+generation: 11
+trouble: 11
+with their: 11
+comedy and: 11
+interested: 11
+likely to: 11
+ever seen: 11
+is no: 11
+a couple: 11
+does not: 11
+strangely: 11
+fiction: 11
+involving: 11
+chinese: 11
+revenge: 11
+jealousy: 11
+transcends: 11
+as they: 11
+to come: 11
+come to: 11
+major: 11
+amount: 11
+amount of: 11
+score: 11
+keep the: 11
+that doesn't: 11
+with this: 11
+same time: 11
+an engrossing: 11
+worth a: 11
+elegant: 11
+future: 11
+yourself: 11
+visceral: 11
+pieces: 11
+of humor: 11
+sounds: 11
+tour: 11
+you're not: 11
+life and: 11
+a comedy: 11
+wit and: 11
+little film: 11
+to enjoy: 11
+grand: 11
+makes you: 11
+average: 11
+characters who: 11
+yes: 11
+both the: 11
+atmosphere: 11
+not as: 11
+diverting: 11
+profound: 11
+spiritual: 11
+lots: 11
+murder: 11
+and how: 11
+will have: 11
+lack: 11
+record: 11
+and he: 11
+a man: 11
+literary: 11
+a beautiful: 11
+humorous: 11
+subversive: 11
+across: 11
+wise: 11
+created a: 11
+among the: 11
+consistently: 11
+see a: 11
+tells: 11
+endearing: 11
+mix of: 11
+sci-fi: 11
+job of: 11
+pop: 11
+motion: 11
+powers: 11
+fire: 11
+gags: 11
+directors: 11
+industry: 11
+land: 11
+we've: 11
+also a: 11
+assured: 11
+when you: 11
+comes to: 11
+white: 11
+country: 11
+exercise: 11
+the subject: 11
+scenes of: 11
+a delightful: 11
+provides a: 11
+t: 11
+york: 11
+new york: 11
+up on: 11
+a moving: 11
+believable: 11
+a funny: 11
+peter: 10
+the movies: 10
+emerges: 10
+top: 10
+insight into: 10
+combination: 10
+that rare: 10
+willing: 10
+willing to: 10
+a nice: 10
+doing: 10
+helps: 10
+kid: 10
+masterful: 10
+forgettable: 10
+crush: 10
+easy to: 10
+in recent: 10
+called: 10
+cheap: 10
+you'd: 10
+behind the: 10
+undeniably: 10
+involved: 10
+just the: 10
+adolescent: 10
+drama about: 10
+a triumph: 10
+footage: 10
+to create: 10
+five: 10
+life of: 10
+blue: 10
+what the: 10
+documentary about: 10
+flicks: 10
+format: 10
+like this: 10
+coming: 10
+but what: 10
+goofy: 10
+potent: 10
+honesty: 10
+offering: 10
+what a: 10
+entertain: 10
+paced: 10
+time is: 10
+return to: 10
+complexity: 10
+a documentary: 10
+understands: 10
+and love: 10
+admirable: 10
+[a]: 10
+couldn't: 10
+much as: 10
+poem: 10
+unflinching: 10
+trip: 10
+attempt: 10
+his characters: 10
+to their: 10
+playing: 10
+might not: 10
+even as: 10
+of fun: 10
+say that: 10
+it gets: 10
+the perfect: 10
+talk: 10
+to her: 10
+greek: 10
+big fat: 10
+stirring: 10
+you'll be: 10
+you could: 10
+one thing: 10
+italian: 10
+based on: 10
+couple of: 10
+philosophical: 10
+lyrical: 10
+follow: 10
+price: 10
+pianist: 10
+for an: 10
+report: 10
+end of: 10
+it and: 10
+visuals: 10
+breathtaking: 10
+does a: 10
+frailty: 10
+a charming: 10
+characters': 10
+they're: 10
+sly: 10
+the life: 10
+it can: 10
+a true: 10
+festival: 10
+fantastic: 10
+brown: 10
+x: 10
+twisted: 10
+way it: 10
+might have: 10
+adult: 10
+a surprisingly: 10
+deliver: 10
+stays: 10
+who's: 10
+its audience: 10
+aren't: 10
+current: 10
+ingenious: 10
+courage: 10
+deft: 10
+gradually: 10
+a world: 10
+as its: 10
+bizarre: 10
+explores: 10
+lots of: 10
+scary: 10
+is far: 10
+lacks in: 10
+into something: 10
+films that: 10
+weird: 10
+miller: 10
+not quite: 10
+the point: 10
+lack of: 10
+lies: 10
+jones: 10
+who has: 10
+finish: 10
+raw: 10
+dreams: 10
+movie in: 10
+revealing: 10
+richly: 10
+roger: 10
+has created: 10
+artistic: 10
+tribute: 10
+house: 10
+of film: 10
+answers: 10
+way of: 10
+is well: 10
+un: 10
+without the: 10
+concerned: 10
+cast of: 10
+tasty: 10
+approach to: 10
+the camera: 10
+the mood: 10
+could be: 10
+community: 10
+usually: 10
+angst: 10
+heart of: 10
+carries: 10
+hopeful: 10
+twist: 10
+the two: 10
+treatment: 10
+it seems: 10
+zone: 10
+hardly: 10
+that he: 10
+the edge: 10
+edge of: 10
+water: 10
+spectacle: 10
+smarter: 10
+in some: 10
+comedy about: 10
+since the: 10
+father: 10
+that this: 10
+concept: 10
+reminds: 10
+time and: 10
+justice: 10
+sadness: 10
+king: 10
+martin: 10
+woman's: 10
+of work: 10
+and not: 10
+for it: 10
+needed: 10
+word: 10
+del: 10
+vision of: 9
+to go: 9
+hate: 9
+a refreshingly: 9
+well worth: 9
+extremely: 9
+grandeur: 9
+move: 9
+anyone who: 9
+and always: 9
+distinctive: 9
+performance that: 9
+that gives: 9
+glimpse into: 9
+today: 9
+games: 9
+run: 9
+songs: 9
+any of: 9
+a pleasant: 9
+whatever: 9
+bringing: 9
+inner: 9
+of how: 9
+substance: 9
+wait: 9
+close to: 9
+buoyant: 9
+the entire: 9
+care about: 9
+bourne: 9
+sustain: 9
+friends: 9
+if it's: 9
+a romantic: 9
+artists: 9
+the work: 9
+idea of: 9
+metaphor: 9
+holocaust: 9
+nor: 9
+the modern: 9
+performers: 9
+see this: 9
+may have: 9
+fair: 9
+russian: 9
+stars: 9
+tries: 9
+a winning: 9
+a huge: 9
+determined: 9
+an old: 9
+has to: 9
+and her: 9
+that should: 9
+well-made: 9
+intelligence and: 9
+account: 9
+uncompromising: 9
+running time: 9
+a clever: 9
+traditional: 9
+droll: 9
+safe: 9
+outside: 9
+understand: 9
+films of: 9
+taken: 9
+foreign: 9
+the role: 9
+brilliantly: 9
+not the: 9
+cultures: 9
+filmed: 9
+appreciate: 9
+help but: 9
+very much: 9
+and entertaining: 9
+love the: 9
+development: 9
+search: 9
+speaks: 9
+stands: 9
+deadpan: 9
+the music: 9
+none: 9
+fashion: 9
+are a: 9
+the humor: 9
+offbeat: 9
+necessary: 9
+looking for: 9
+largely: 9
+you're in: 9
+a director: 9
+is worth: 9
+brain: 9
+writer: 9
+caper: 9
+thinking: 9
+worthy of: 9
+uplifting: 9
+of modern: 9
+but one: 9
+the rare: 9
+bold: 9
+food: 9
+it as: 9
+brutal: 9
+a remarkable: 9
+lady: 9
+marriage: 9
+the pianist: 9
+tough: 9
+damn: 9
+poignant and: 9
+makes for: 9
+authentic: 9
+recommend: 9
+music and: 9
+quite a: 9
+focus: 9
+break: 9
+even a: 9
+a simple: 9
+niro: 9
+a kind: 9
+starts: 9
+fun with: 9
+happen: 9
+splendid: 9
+you may: 9
+finest: 9
+film in: 9
+matters: 9
+levels: 9
+isn't a: 9
+back to: 9
+further: 9
+crazy: 9
+integrity: 9
+the emotional: 9
+exquisitely: 9
+in your: 9
+tears: 9
+a warm: 9
+sheer: 9
+predecessor: 9
+poetic: 9
+washington: 9
+both a: 9
+i liked: 9
+the material: 9
+nuanced: 9
+achieves: 9
+give a: 9
+spirited: 9
+sobering: 9
+smart and: 9
+compassion: 9
+terrifying: 9
+intrigue: 9
+wanted: 9
+cuts: 9
+ice: 9
+group: 9
+be more: 9
+instead of: 9
+wrong: 9
+promise: 9
+wife: 9
+delightfully: 9
+with it: 9
+a rather: 9
+romp: 9
+superbly: 9
+adaptation of: 9
+sea: 9
+family film: 9
+leave you: 9
+public: 9
+core: 9
+tribute to: 9
+it works: 9
+event: 9
+straight: 9
+attention to: 9
+after the: 9
+rhythms: 9
+only a: 9
+spite: 9
+in spite: 9
+spite of: 9
+outrageous: 9
+it still: 9
+resist: 9
+and just: 9
+has made: 9
+dead: 9
+b: 9
+is nothing: 9
+see the: 9
+film a: 9
+so many: 9
+lane: 9
+ago: 9
+rewarding: 9
+once again: 9
+derivative: 9
+devastating: 9
+of any: 9
+has some: 9
+growing: 9
+writer/director: 9
+lovers: 9
+um: 9
+a much: 9
+us in: 9
+unlikely: 9
+finding: 9
+seat: 9
+gay: 9
+made a: 9
+ring: 9
+she's: 9
+tom: 9
+portrayal: 9
+conviction: 9
+imagine: 9
+to believe: 9
+intensity: 9
+noir: 9
+an entertaining: 9
+a while: 9
+image: 9
+intoxicating: 9
+number: 9
+the art: 9
+complicated: 9
+mainstream: 9
+movies that: 9
+band: 9
+and i: 9
+dragon: 9
+members: 9
+spider-man: 9
+as any: 9
+families: 9
+changing: 9
+joyous: 9
+that a: 8
+feel like: 8
+who have: 8
+you want: 8
+talking: 8
+the mind: 8
+lived: 8
+a masterpiece: 8
+mysteries: 8
+maintains: 8
+the familiar: 8
+someone: 8
+effectively: 8
+whimsy: 8
+than any: 8
+draws: 8
+surely: 8
+movie a: 8
+creating: 8
+moves: 8
+rhythm: 8
+lips: 8
+beat: 8
+darkly: 8
+giant: 8
+features: 8
+eccentric: 8
+bullock: 8
+chilly: 8
+books: 8
+shocking: 8
+psychological drama: 8
+fierce: 8
+dangerous: 8
+series of: 8
+example: 8
+comfort: 8
+delicately: 8
+masterfully: 8
+richer: 8
+loving: 8
+challenges: 8
+clarity: 8
+best film: 8
+view of: 8
+aside: 8
+incredibly: 8
+is both: 8
+hong: 8
+a filmmaker: 8
+directs: 8
+horrifying: 8
+song: 8
+above the: 8
+photography: 8
+fear: 8
+grief and: 8
+common: 8
+values: 8
+patience: 8
+seen in: 8
+the idea: 8
+engrossing and: 8
+history and: 8
+scope: 8
+have the: 8
+results: 8
+neither: 8
+extreme: 8
+cinematography: 8
+fun and: 8
+walk: 8
+to show: 8
+technical: 8
+gory: 8
+haven't: 8
+a minor: 8
+forgotten: 8
+like mike: 8
+is like: 8
+its heart: 8
+superior: 8
+likable: 8
+aware: 8
+to entertain: 8
+just a: 8
+must be: 8
+be seen: 8
+work and: 8
+marvelous: 8
+you are: 8
+behavior: 8
+a welcome: 8
+account of: 8
+capture the: 8
+indie: 8
+worst: 8
+huppert: 8
+understated: 8
+delivered: 8
+a pleasure: 8
+sides of: 8
+problem: 8
+fun to: 8
+b-movie: 8
+brothers: 8
+beautiful film: 8
+tsai: 8
+reminder: 8
+possibly: 8
+brought: 8
+touches: 8
+the result: 8
+result is: 8
+thrilling: 8
+as good: 8
+impeccable: 8
+against the: 8
+and one: 8
+can't help: 8
+intimate and: 8
+storyline: 8
+please: 8
+imagination and: 8
+makes us: 8
+using: 8
+longer: 8
+increasingly: 8
+sit: 8
+directorial: 8
+mostly martha: 8
+just enough: 8
+my big: 8
+fat greek: 8
+greek wedding: 8
+add: 8
+don't have: 8
+performance is: 8
+one man's: 8
+insomnia: 8
+course: 8
+i'll: 8
+for his: 8
+sensual: 8
+revolution: 8
+where the: 8
+polanski: 8
+experiences: 8
+expected: 8
+serves: 8
+energetic and: 8
+wars: 8
+miss: 8
+find a: 8
+what time: 8
+unnerving: 8
+a remarkably: 8
+metropolis: 8
+what they: 8
+gives a: 8
+de niro: 8
+a pretty: 8
+ties: 8
+talents: 8
+pathos: 8
+dark and: 8
+has an: 8
+becoming: 8
+inspiring: 8
+terrible: 8
+crowd: 8
+out and: 8
+dry: 8
+recent memory: 8
+more of: 8
+language: 8
+less than: 8
+intelligent and: 8
+to life: 8
+he can: 8
+a time: 8
+been a: 8
+that takes: 8
+equal: 8
+innocence: 8
+up a: 8
+denying: 8
+secretary: 8
+that isn't: 8
+the journey: 8
+suspenseful: 8
+like its: 8
+setting: 8
+and humor: 8
+but as: 8
+victims: 8
+happiness: 8
+the little: 8
+stylistic: 8
+asks: 8
+delicious: 8
+guilty: 8
+coming-of-age story: 8
+smartly: 8
+present: 8
+telling: 8
+how the: 8
+divine: 8
+secrets: 8
+provide: 8
+closer: 8
+observations: 8
+and satisfying: 8
+admire: 8
+and that's: 8
+melancholy: 8
+a summer: 8
+his most: 8
+much to: 8
+point of: 8
+relationship between: 8
+too much: 8
+marvel: 8
+its most: 8
+evokes: 8
+overcome: 8
+the one: 8
+drawn: 8
+dancing: 8
+modest: 8
+breezy: 8
+conventional: 8
+and director: 8
+vehicle: 8
+franchise: 8
+credits: 8
+diversion: 8
+clearly: 8
+script and: 8
+thrills: 8
+he is: 8
+conduct: 8
+the hours: 8
+tour de: 8
+de force: 8
+mother: 8
+film for: 8
+mess: 8
+a worthy: 8
+creates a: 8
+front: 8
+subtle and: 8
+simplicity: 8
+turns out: 8
+roll: 8
+that may: 8
+is all: 8
+explores the: 8
+filmmaker's: 8
+it offers: 8
+make for: 8
+of characters: 8
+cautionary: 8
+eight: 8
+gifted: 8
+to resist: 8
+packed: 8
+the viewer: 8
+wildly: 8
+blade: 8
+a stunning: 8
+blood: 8
+soundtrack: 8
+you in: 8
+of good: 8
+like an: 8
+falls: 8
+the acting: 8
+state: 8
+teacher: 8
+gently: 8
+time out: 8
+straightforward: 8
+even when: 8
+emotion: 8
+effect: 8
+the face: 8
+face of: 8
+manage: 8
+manage to: 8
+thriller that: 8
+only to: 8
+doubt: 8
+said: 8
+addition: 8
+addition to: 8
+dialogue and: 8
+of family: 8
+mixture: 8
+finely: 8
+it's worth: 8
+despair: 8
+para: 8
+pain: 8
+the lives: 8
+already: 8
+with enough: 8
+physical: 8
+kissinger: 8
+sade: 8
+killer: 8
+capable: 8
+trick: 8
+belongs: 8
+filme: 8
+impossible to: 8
+sequence: 8
+the french: 8
+harrowing: 8
+i found: 8
+a fairly: 8
+delivering: 8
+sight: 8
+james: 8
+use of: 8
+birthday: 8
+joy: 8
+birthday girl: 8
+number of: 8
+if you've: 8
+the great: 8
+an artist: 8
+encounter: 8
+tradition: 8
+the screenplay: 8
+e t: 8
+wish: 8
+that in: 8
+color: 8
+moore: 8
+and you: 8
+will leave: 8
+superb: 8
+that works: 8
+all about: 8
+it's all: 8
+or a: 8
+frequently: 8
+value: 8
+knowledge: 8
+indian: 8
+powerful and: 8
+desperation: 8
+who is: 8
+need to: 8
+conclusion: 8
+movie that's: 7
+honest and: 7
+combination of: 7
+it but: 7
+famous: 7
+which the: 7
+overly: 7
+breath: 7
+glass: 7
+not for: 7
+efforts: 7
+it lacks: 7
+wow: 7
+paid: 7
+hugh: 7
+while it: 7
+literate: 7
+rewards: 7
+effort to: 7
+technology: 7
+beginning: 7
+acts: 7
+the rest: 7
+importance: 7
+the importance: 7
+importance of: 7
+gosling: 7
+gives us: 7
+fable: 7
+target: 7
+celebrates: 7
+brother: 7
+spirit of: 7
+held: 7
+pleasant enough: 7
+of both: 7
+astonishing: 7
+bride: 7
+taut: 7
+pull: 7
+a sensitive: 7
+through a: 7
+a series: 7
+a truly: 7
+a perfect: 7
+example of: 7
+deeply felt: 7
+have you: 7
+your eyes: 7
+happens: 7
+a chance: 7
+depressing: 7
+narc: 7
+these days: 7
+kong: 7
+the process: 7
+hong kong: 7
+adventure and: 7
+and this: 7
+us with: 7
+the level: 7
+barely: 7
+discovery: 7
+national: 7
+favor: 7
+quickly: 7
+time of: 7
+i was: 7
+korean: 7
+a refreshing: 7
+surface: 7
+the ultimate: 7
+it might: 7
+rousing: 7
+a whole: 7
+mainly: 7
+somewhere: 7
+spend: 7
+key: 7
+ambiguity: 7
+time to: 7
+constantly: 7
+to know: 7
+south: 7
+charismatic: 7
+infectious: 7
+great deal: 7
+deal of: 7
+an original: 7
+sweetness: 7
+tries to: 7
+folks: 7
+and by: 7
+the american: 7
+allen: 7
+of laughs: 7
+laughs and: 7
+enormously: 7
+aware of: 7
+here's: 7
+story but: 7
+husband: 7
+and of: 7
+slowly: 7
+a thriller: 7
+precious: 7
+of human: 7
+morality: 7
+thriller with: 7
+unforgettable: 7
+path: 7
+claustrophobic: 7
+story to: 7
+flow: 7
+release: 7
+honestly: 7
+medium: 7
+it must: 7
+but they: 7
+both sides: 7
+yet another: 7
+moved: 7
+english: 7
+dong: 7
+interesting and: 7
+race: 7
+early: 7
+unabashedly: 7
+understanding: 7
+nonetheless: 7
+scale: 7
+escapism: 7
+has enough: 7
+examines: 7
+parker: 7
+source: 7
+all but: 7
+good and: 7
+is this: 7
+elling: 7
+unsentimental: 7
+of people: 7
+beauty of: 7
+clooney: 7
+triumph of: 7
+of art: 7
+vitality: 7
+the old: 7
+solondz: 7
+desperate: 7
+like it: 7
+figures: 7
+ahead: 7
+happily: 7
+memories: 7
+and what: 7
+an impressive: 7
+you get: 7
+and no: 7
+attitude: 7
+life's: 7
+the message: 7
+undeniable: 7
+it could: 7
+interested in: 7
+in one: 7
+intriguing and: 7
+savvy: 7
+how much: 7
+not just: 7
+it's one: 7
+still manages: 7
+down the: 7
+i don't: 7
+much a: 7
+keeping: 7
+be as: 7
+think of: 7
+soulful: 7
+committed: 7
+intellectual: 7
+will probably: 7
+shake: 7
+a poignant: 7
+in life: 7
+quest: 7
+comedy of: 7
+check: 7
+all ages: 7
+while not: 7
+and directed: 7
+monster: 7
+it there: 7
+character's: 7
+and also: 7
+the truth: 7
+a vivid: 7
+none of: 7
+despite the: 7
+everyday: 7
+movie of: 7
+so well: 7
+man and: 7
+kaufman: 7
+night: 7
+killed: 7
+scenes and: 7
+first time: 7
+represents: 7
+mile: 7
+offers an: 7
+unforced: 7
+delivery: 7
+slapstick: 7
+mean: 7
+long after: 7
+cult: 7
+cinema's: 7
+stay: 7
+the tale: 7
+bloody: 7
+although the: 7
+year's best: 7
+proves that: 7
+lends: 7
+film works: 7
+effects and: 7
+sick: 7
+much like: 7
+not too: 7
+realize: 7
+to an: 7
+fisher: 7
+get the: 7
+little more: 7
+pleasing: 7
+us on: 7
+tales: 7
+the man: 7
+irresistible: 7
+its flaws: 7
+and makes: 7
+than in: 7
+catch: 7
+a perfectly: 7
+pacino: 7
+rich and: 7
+used to: 7
+but at: 7
+just about: 7
+road movie: 7
+a bad: 7
+lead performances: 7
+inherent: 7
+strength of: 7
+uneven: 7
+fan of: 7
+ya-ya: 7
+sisterhood: 7
+is pretty: 7
+moody: 7
+also the: 7
+a fan: 7
+fit: 7
+and surprisingly: 7
+root: 7
+of cinema: 7
+carefully: 7
+providing: 7
+presence: 7
+reasonably: 7
+opportunity: 7
+wanted to: 7
+engaging and: 7
+the cinematic: 7
+and will: 7
+to those: 7
+spirits: 7
+of emotional: 7
+because the: 7
+gets under: 7
+inspirational: 7
+appears: 7
+black comedy: 7
+start to: 7
+funniest: 7
+wickedly: 7
+comes from: 7
+knows how: 7
+boys: 7
+look like: 7
+needs to: 7
+thrillers: 7
+good film: 7
+a classic: 7
+entertaining and: 7
+match: 7
+is for: 7
+lee: 7
+movies are: 7
+popular: 7
+fights: 7
+wacky: 7
+that can: 7
+amused: 7
+document of: 7
+moviegoers: 7
+won't be: 7
+timing: 7
+central: 7
+and so: 7
+outstanding: 7
+feature debut: 7
+it turns: 7
+it's as: 7
+as he: 7
+stock: 7
+down to: 7
+he does: 7
+becomes a: 7
+works as: 7
+become a: 7
+has something: 7
+monty: 7
+choices: 7
+relies: 7
+eventually: 7
+will find: 7
+persona: 7
+something of: 7
+shines: 7
+you with: 7
+souls: 7
+a love: 7
+motion picture: 7
+team: 7
+this time: 7
+a portrait: 7
+shame: 7
+a human: 7
+human face: 7
+of fire: 7
+touched: 7
+demands: 7
+it not: 7
+a coming-of-age: 7
+the second: 7
+the price: 7
+showing: 7
+documentaries: 7
+gift: 7
+treatment of: 7
+leigh: 7
+poignancy: 7
+is never: 7
+real-life: 7
+service: 7
+but there: 7
+it's like: 7
+achievement: 7
+in many: 7
+sympathetic: 7
+violent: 7
+glorious: 7
+strikes: 7
+you like: 7
+subtly: 7
+austin: 7
+austin powers: 7
+some time: 7
+for kids: 7
+say about: 7
+damned: 7
+mixture of: 7
+told with: 7
+odds: 7
+only the: 7
+but with: 7
+a different: 7
+behold: 7
+to behold: 7
+em: 7
+than to: 7
+cartoon: 7
+it with: 7
+convey: 7
+to hit: 7
+step: 7
+adds: 7
+though it's: 7
+god: 7
+that keeps: 7
+your seat: 7
+read my: 7
+my lips: 7
+emerge: 7
+delivers the: 7
+awful: 7
+side of: 7
+landscape: 7
+accurate: 7
+the ways: 7
+and deeply: 7
+appeal to: 7
+the ring: 7
+very good: 7
+ramsay: 7
+room: 7
+body: 7
+its title: 7
+exceptional: 7
+constant: 7
+comfortable: 7
+reno: 7
+a fun: 7
+the middle: 7
+a riveting: 7
+returns: 7
+of recent: 7
+fight: 7
+fears: 7
+the script: 7
+sees: 7
+intimacy: 7
+actresses: 7
+demonstrates: 7
+of them: 7
+enough and: 7
+that would: 7
+beyond the: 7
+mention: 7
+saw: 7
+crimes: 7
+combines: 7
+testament: 7
+realism: 7
+season: 7
+notice: 7
+silence: 7
+red dragon: 7
+details: 7
+unpredictable: 7
+sweetly: 7
+as his: 7
+main: 7
+distance: 7
+charmer: 7
+to call: 7
+and emotional: 7
+late: 7
+paul: 7
+hugely: 7
+set in: 7
+documentary that: 7
+en: 7
+the dark: 7
+is too: 7
+holiday: 7
+somber: 7
+we're: 7
+thrill: 7
+during the: 7
+i'd: 7
+gangster: 7
+of history: 7
+gives the: 7
+smile: 7
+up with: 7
+scratch: 7
+spielberg's: 7
+about one: 7
+film that's: 7
+deceptively: 7
+lady and: 7
+back and: 7
+that never: 7
+go to: 6
+edges: 6
+asian: 6
+of my: 6
+the greatest: 6
+movies ever: 6
+air of: 6
+about how: 6
+hypnotic: 6
+whom: 6
+for everyone: 6
+scores: 6
+planet: 6
+unfortunately: 6
+is almost: 6
+his best: 6
+the series: 6
+us a: 6
+a rare: 6
+don't know: 6
+darkly funny: 6
+creature: 6
+get a: 6
+way the: 6
+reading: 6
+dog: 6
+the piece: 6
+madness: 6
+and well: 6
+a complex: 6
+avoids: 6
+son of: 6
+the bride: 6
+too long: 6
+stylized: 6
+incredible: 6
+and disturbing: 6
+measured: 6
+take a: 6
+year's most: 6
+you a: 6
+of death: 6
+blast: 6
+locations: 6
+significant: 6
+without being: 6
+of other: 6
+clichés: 6
+i enjoyed: 6
+chicago: 6
+that have: 6
+psychologically: 6
+secret: 6
+hip-hop: 6
+not have: 6
+as funny: 6
+stand-up: 6
+its story: 6
+enthralling: 6
+about this: 6
+expectations: 6
+pay: 6
+refugees: 6
+news: 6
+to some: 6
+pair: 6
+obsession: 6
+about an: 6
+gloriously: 6
+ticket: 6
+films and: 6
+succeed: 6
+heart is: 6
+lines: 6
+and good: 6
+grasp: 6
+kiss: 6
+jason: 6
+work in: 6
+alabama: 6
+sweet home: 6
+home alabama: 6
+movies in: 6
+caine: 6
+it's too: 6
+they were: 6
+park: 6
+nothing but: 6
+solidly: 6
+a visual: 6
+roots: 6
+are as: 6
+a well-made: 6
+science: 6
+existence: 6
+family and: 6
+ranks: 6
+is simply: 6
+travel: 6
+give you: 6
+much fun: 6
+them to: 6
+and fun: 6
+good-natured: 6
+on both: 6
+energy and: 6
+leaving: 6
+merely a: 6
+person: 6
+for what: 6
+that made: 6
+the good: 6
+u: 6
+rise: 6
+reminder of: 6
+u s: 6
+20: 6
+painfully: 6
+haynes: 6
+is something: 6
+fresh and: 6
+christian: 6
+the ones: 6
+passions: 6
+and affecting: 6
+buy: 6
+sustains: 6
+knew: 6
+attempt to: 6
+life into: 6
+script is: 6
+a gem: 6
+immensely: 6
+doesn't have: 6
+pick: 6
+decade: 6
+romantic comedies: 6
+the past: 6
+wouldn't: 6
+performance from: 6
+nuance: 6
+human spirit: 6
+forth: 6
+america's: 6
+an important: 6
+continues: 6
+forces: 6
+first-time: 6
+is such: 6
+true to: 6
+anything but: 6
+thankfully: 6
+message of: 6
+cloying: 6
+has become: 6
+talk to: 6
+but his: 6
+isolation: 6
+fun of: 6
+'60s: 6
+those of: 6
+guy: 6
+frontal: 6
+full frontal: 6
+china: 6
+of war: 6
+the ride: 6
+her own: 6
+credible: 6
+that delivers: 6
+the action: 6
+longing: 6
+pat: 6
+notion: 6
+complete: 6
+an almost: 6
+nature of: 6
+pays: 6
+intricate: 6
+brief: 6
+office: 6
+successfully: 6
+learn: 6
+the only: 6
+serves as: 6
+yearning: 6
+the true: 6
+within the: 6
+people in: 6
+performance as: 6
+it out: 6
+particular: 6
+up and: 6
+satisfies: 6
+time the: 6
+tosca: 6
+a treat: 6
+hill: 6
+drama and: 6
+go see: 6
+murderous: 6
+strike: 6
+leave the: 6
+the long: 6
+artfully: 6
+tremendous: 6
+murphy: 6
+i had: 6
+pretty good: 6
+charm and: 6
+toward: 6
+virtues: 6
+relatively: 6
+that might: 6
+for something: 6
+c: 6
+that comes: 6
+history of: 6
+an honest: 6
+the sort: 6
+featuring: 6
+a fresh: 6
+an epic: 6
+its subject: 6
+saga: 6
+feel the: 6
+place in: 6
+make us: 6
+soon: 6
+shot and: 6
+this isn't: 6
+miracle: 6
+fly: 6
+funnier: 6
+spot: 6
+the pleasures: 6
+pleasures of: 6
+an actor: 6
+on an: 6
+of young: 6
+come along: 6
+farce: 6
+fate: 6
+thousands: 6
+can only: 6
+along with: 6
+no denying: 6
+denying the: 6
+[the: 6
+for some: 6
+delights: 6
+higher: 6
+expertly: 6
+broad: 6
+larger: 6
+its predecessor: 6
+more to: 6
+and too: 6
+tragedies: 6
+of warmth: 6
+not always: 6
+who aren't: 6
+to bring: 6
+managed: 6
+of faith: 6
+what you: 6
+gives it: 6
+the better: 6
+enthusiasm: 6
+performance and: 6
+capturing: 6
+neil: 6
+labute: 6
+directed by: 6
+homage: 6
+remake of: 6
+secrets of: 6
+the ya-ya: 6
+be an: 6
+thriller is: 6
+celebration: 6
+celebration of: 6
+consciousness: 6
+passion and: 6
+closer to: 6
+worth watching: 6
+the director's: 6
+the experience: 6
+is definitely: 6
+drama is: 6
+out with: 6
+exciting and: 6
+for director: 6
+affair: 6
+for in: 6
+love is: 6
+child: 6
+resonance: 6
+out a: 6
+rich in: 6
+remembered: 6
+warm and: 6
+movies and: 6
+engaged: 6
+debate: 6
+photographed: 6
+lies in: 6
+women's: 6
+smith: 6
+his cast: 6
+sarandon: 6
+the skin: 6
+skin of: 6
+diverse: 6
+confidence: 6
+from being: 6
+the funniest: 6
+it in: 6
+coming-of-age tale: 6
+christmas: 6
+pleasurable: 6
+shadows: 6
+smooth: 6
+i've seen: 6
+aimed: 6
+pretty much: 6
+contrived: 6
+it for: 6
+safe conduct: 6
+speaking: 6
+across the: 6
+audience in: 6
+indictment: 6
+childhood: 6
+scenario: 6
+to spare: 6
+on your: 6
+alternately: 6
+a strange: 6
+often hilarious: 6
+the fact: 6
+a highly: 6
+a worthwhile: 6
+afraid: 6
+works because: 6
+conversations: 6
+eric: 6
+soderbergh: 6
+commercial: 6
+ponder: 6
+the credits: 6
+credits roll: 6
+later: 6
+voice: 6
+enjoyably: 6
+feast: 6
+what could: 6
+male: 6
+degree: 6
+vital: 6
+mature: 6
+except: 6
+quirky and: 6
+fails: 6
+engage: 6
+mildly: 6
+mood for: 6
+matinee: 6
+at home: 6
+anime: 6
+predecessors: 6
+packed with: 6
+picture that: 6
+name: 6
+southern: 6
+but there's: 6
+noyce: 6
+lesson: 6
+it more: 6
+this picture: 6
+noble: 6
+handsome: 6
+lightweight: 6
+and sometimes: 6
+the situation: 6
+on that: 6
+rendered: 6
+endlessly: 6
+a haunting: 6
+in full: 6
+to think: 6
+subculture: 6
+transcend: 6
+passionate: 6
+sentimentality: 6
+without a: 6
+paradiso: 6
+filling: 6
+familial: 6
+domestic: 6
+it takes: 6
+reign: 6
+aliens: 6
+reign of: 6
+about what: 6
+amusing and: 6
+harry: 6
+price of: 6
+scenery: 6
+control: 6
+irony: 6
+jessica: 6
+grey: 6
+the grey: 6
+grey zone: 6
+jagger: 6
+villain: 6
+gets the: 6
+deserves a: 6
+an extraordinary: 6
+chris: 6
+figure: 6
+was a: 6
+weirdly: 6
+leaves you: 6
+about it: 6
+concern: 6
+human nature: 6
+a lovely: 6
+best and: 6
+empathy: 6
+tear: 6
+aging: 6
+beguiling: 6
+us of: 6
+funny but: 6
+allen's: 6
+out in: 6
+no doubt: 6
+who can: 6
+ryan: 6
+let: 6
+to let: 6
+2002: 6
+broomfield: 6
+something that: 6
+patient: 6
+passion for: 6
+fantasies: 6
+daniel: 6
+a gripping: 6
+way through: 6
+mysterious: 6
+avoid: 6
+make this: 6
+theaters: 6
+pointed: 6
+americans: 6
+ugly: 6
+topic: 6
+just how: 6
+that by: 6
+under a: 6
+fanciful: 6
+magnificent: 6
+to share: 6
+every bit: 6
+bit as: 6
+that manages: 6
+belongs to: 6
+there's something: 6
+waiting: 6
+creativity: 6
+urgency: 6
+about as: 6
+the wild: 6
+drug: 6
+low-budget: 6
+missing: 6
+effortlessly: 6
+into your: 6
+hot: 6
+you've seen: 6
+system: 6
+the eyes: 6
+bleak: 6
+ode: 6
+ode to: 6
+messages: 6
+demons: 6
+a gorgeous: 6
+twice: 6
+knowing: 6
+revelatory: 6
+lovely and: 6
+its way: 6
+dying: 6
+legal: 6
+escapist: 6
+directing: 6
+and predictable: 6
+20th: 6
+ensemble cast: 6
+concerned with: 6
+a place: 6
+nothing short: 6
+crisis: 6
+parable: 6
+work that: 6
+essentially: 6
+exceptionally: 6
+all three: 6
+punch: 6
+a sharp: 6
+teenage: 6
+in any: 6
+sleeve: 6
+but even: 6
+aspects of: 6
+measure: 6
+digital: 6
+myself: 6
+crisp: 6
+in fact: 6
+cause: 6
+web: 6
+signs: 6
+con: 6
+a touching: 6
+a testament: 6
+testament to: 6
+movies of: 6
+end up: 6
+come from: 6
+soap: 6
+whimsical: 6
+loneliness: 6
+an american: 6
+comedic: 6
+element: 6
+seriously: 6
+confident: 6
+film are: 6
+us that: 6
+basic: 6
+vintage: 6
+about two: 6
+but that: 6
+have made: 6
+pack: 6
+in my: 6
+protagonist: 6
+sweeping: 6
+nation: 6
+a rich: 6
+moments and: 6
+single: 6
+schmidt: 6
+real women: 6
+tiny: 6
+dull: 6
+carry: 6
+standards: 6
+promises: 6
+sparkling: 6
+believe in: 6
+gangs: 6
+work is: 6
+kidman: 6
+unexpectedly: 6
+feeling like: 6
+thick: 6
+am: 6
+attraction: 6
+jack: 6
+barbershop: 6
+including: 6
+funny in: 6
+to mention: 6
+spy kids: 6
+it's about: 6
+chance to: 6
+served: 6
+direction and: 6
+and sad: 6
+material is: 6
+a wild: 6
+sugar: 6
+things that: 6
+never lets: 6
+these two: 6
+duke: 6
+the lady: 6
+the duke: 6
+home movie: 6
+fall: 6
+peek: 6
+portrayal of: 6
+ghetto: 6
+years of: 6
+eloquent: 6
+destined: 5
+greater: 5
+destined to: 5
+that he's: 5
+gorgeously: 5
+like to: 5
+movies to: 5
+have fun: 5
+observed: 5
+emerges as: 5
+comics: 5
+education: 5
+the road: 5
+steers: 5
+it's so: 5
+but he: 5
+cat: 5
+take care: 5
+singing: 5
+the cinema: 5
+illuminating: 5
+breath of: 5
+includes: 5
+incisive: 5
+imagery and: 5
+departure: 5
+moviegoing: 5
+brisk: 5
+stevenson's: 5
+earlier: 5
+bow: 5
+guaranteed: 5
+drugs: 5
+weddings: 5
+film than: 5
+hugh grant: 5
+took: 5
+it never: 5
+replete: 5
+by no: 5
+no means: 5
+replete with: 5
+by all: 5
+heavy: 5
+recent years: 5
+known: 5
+loses: 5
+bite: 5
+rest of: 5
+su: 5
+case for: 5
+hair: 5
+provides an: 5
+an amazing: 5
+an easy: 5
+the reason: 5
+listen: 5
+likeable: 5
+listen to: 5
+transformation: 5
+begins to: 5
+of heart: 5
+undercover: 5
+undercover brother: 5
+an undeniably: 5
+teens: 5
+living in: 5
+morton: 5
+morvern: 5
+grows: 5
+rouge: 5
+humour: 5
+lightness: 5
+the charm: 5
+charm of: 5
+foster: 5
+homes: 5
+free: 5
+journey of: 5
+work as: 5
+rolling: 5
+see what: 5
+long way: 5
+rewarded: 5
+preposterous: 5
+and thoroughly: 5
+demonstrate: 5
+landscapes: 5
+a better: 5
+than his: 5
+educational: 5
+blast of: 5
+focused: 5
+director of: 5
+introduces: 5
+in imax: 5
+cynicism: 5
+surprised: 5
+watching it: 5
+school: 5
+try to: 5
+the surface: 5
+films like: 5
+crew: 5
+of pure: 5
+allows us: 5
+a feel-good: 5
+edited: 5
+invigorating: 5
+lacking: 5
+making it: 5
+compelling story: 5
+the drama: 5
+drama of: 5
+a gentle: 5
+unpretentious: 5
+casts: 5
+desire to: 5
+good fun: 5
+hear: 5
+suffering: 5
+and still: 5
+still be: 5
+respectable: 5
+chord: 5
+parts of: 5
+bracing: 5
+drive: 5
+finale: 5
+to both: 5
+sizzle: 5
+and those: 5
+you're a: 5
+is your: 5
+paints: 5
+singles: 5
+intensely: 5
+following: 5
+a half: 5
+innocent: 5
+waydowntown: 5
+boasts: 5
+the scenes: 5
+partly: 5
+acting and: 5
+jewish: 5
+deals: 5
+deals with: 5
+in general: 5
+we have: 5
+love for: 5
+harsh: 5
+will likely: 5
+foibles: 5
+as many: 5
+but ultimately: 5
+steady: 5
+remains a: 5
+nair: 5
+attempts: 5
+careful: 5
+it's just: 5
+seen the: 5
+of some: 5
+that really: 5
+funny movie: 5
+landmark: 5
+will enjoy: 5
+must have: 5
+undoubtedly: 5
+i'm not: 5
+it or: 5
+lot to: 5
+keeps you: 5
+becomes an: 5
+jean: 5
+wears: 5
+wears its: 5
+incident: 5
+combined: 5
+combined with: 5
+trademark: 5
+invaluable: 5
+satisfy: 5
+grown-up: 5
+moore's: 5
+light on: 5
+essence: 5
+absurdist: 5
+sitcom: 5
+enjoy this: 5
+personality: 5
+the least: 5
+you over: 5
+polanski's: 5
+much better: 5
+versions: 5
+ones that: 5
+co-writer: 5
+minds: 5
+stark: 5
+lovingly: 5
+the stuff: 5
+inventive and: 5
+a tale: 5
+grow: 5
+their lives: 5
+warmth and: 5
+i like: 5
+bit too: 5
+sure to: 5
+to please: 5
+in search: 5
+search of: 5
+want the: 5
+window: 5
+the imagination: 5
+admit: 5
+escape: 5
+of middle: 5
+anyway: 5
+more like: 5
+when it's: 5
+it's good: 5
+the ability: 5
+dares: 5
+what we: 5
+background: 5
+frightening: 5
+at one: 5
+in our: 5
+positive: 5
+an emotional: 5
+meaning and: 5
+in love: 5
+love with: 5
+tongue-in-cheek: 5
+pushes: 5
+film which: 5
+loves: 5
+eat: 5
+romance and: 5
+has just: 5
+gentle and: 5
+own right: 5
+you just: 5
+sacrifice: 5
+godard: 5
+words and: 5
+add up: 5
+balanced: 5
+reflective: 5
+the tone: 5
+only because: 5
+the sense: 5
+stroke: 5
+seeking: 5
+the book: 5
+does have: 5
+paranoia: 5
+is how: 5
+just another: 5
+enormous: 5
+have ever: 5
+even with: 5
+insomnia is: 5
+precisely: 5
+soderbergh's: 5
+stop: 5
+snapshot: 5
+snapshot of: 5
+herself: 5
+happens to: 5
+roman: 5
+the filmmaker: 5
+genres: 5
+visit: 5
+wants: 5
+freedom: 5
+first feature: 5
+build: 5
+uncommonly: 5
+not in: 5
+them and: 5
+story's: 5
+leading: 5
+ego: 5
+seemingly: 5
+a serious: 5
+proceedings: 5
+in terms: 5
+terms of: 5
+of style: 5
+the proceedings: 5
+by his: 5
+tight: 5
+boundaries: 5
+contrivances: 5
+verve: 5
+weren't: 5
+gender: 5
+simply a: 5
+are just: 5
+perfection: 5
+and powerful: 5
+tender and: 5
+manners: 5
+bunch: 5
+no one: 5
+boldly: 5
+star wars: 5
+fast-paced: 5
+minority: 5
+minority report: 5
+produced: 5
+movies as: 5
+a boy: 5
+seldahl: 5
+and heartbreaking: 5
+and enjoy: 5
+dogtown: 5
+film one: 5
+slick: 5
+building: 5
+to leave: 5
+good job: 5
+kinnear: 5
+near: 5
+sensibility: 5
+express: 5
+magic and: 5
+moonlight: 5
+moonlight mile: 5
+off with: 5
+its characters': 5
+and enjoyable: 5
+itself in: 5
+street: 5
+logic: 5
+a sly: 5
+men in: 5
+pretentious: 5
+to recommend: 5
+notorious: 5
+by this: 5
+ease: 5
+frida: 5
+are moments: 5
+and gentle: 5
+time at: 5
+the next: 5
+sayles: 5
+complications: 5
+calls: 5
+actors are: 5
+it worth: 5
+the bourne: 5
+bourne identity: 5
+is always: 5
+spike: 5
+artful: 5
+bland: 5
+sinister: 5
+well-written: 5
+works on: 5
+culture in: 5
+a journey: 5
+below: 5
+can still: 5
+shortcomings: 5
+human and: 5
+everyone's: 5
+comedy is: 5
+an exhilarating: 5
+anybody: 5
+the full: 5
+suck: 5
+an actress: 5
+seven: 5
+wisdom: 5
+type: 5
+made with: 5
+cruel: 5
+really is: 5
+fiercely: 5
+volatile: 5
+those rare: 5
+even better: 5
+unfamiliar: 5
+technique: 5
+its subjects: 5
+images and: 5
+wide: 5
+embraces: 5
+terror: 5
+lie: 5
+and has: 5
+simple and: 5
+if a: 5
+create a: 5
+relentless: 5
+creation: 5
+more interesting: 5
+guilty pleasure: 5
+pleasure of: 5
+ironic: 5
+celebrates the: 5
+never been: 5
+film does: 5
+divine secrets: 5
+ya-ya sisterhood: 5
+skillfully: 5
+steeped: 5
+ably: 5
+ya: 5
+viewed: 5
+prefer: 5
+every frame: 5
+beauty and: 5
+tackles: 5
+arresting: 5
+structured: 5
+director peter: 5
+suggests: 5
+made the: 5
+forceful: 5
+exotic: 5
+presence of: 5
+something more: 5
+wholesome: 5
+to like: 5
+numerous: 5
+an intimate: 5
+abuse: 5
+group of: 5
+equivalent: 5
+of view: 5
+empire: 5
+claude: 5
+a hollywood: 5
+conflicted: 5
+deserves to: 5
+stops: 5
+alan: 5
+the death: 5
+journey is: 5
+fill: 5
+charms: 5
+idiosyncratic: 5
+movie as: 5
+a picture: 5
+showcases: 5
+and romantic: 5
+stuart: 5
+expressive: 5
+weeks: 5
+a matter: 5
+matter of: 5
+awkward: 5
+pleasure to: 5
+formulaic: 5
+nuances: 5
+wilco: 5
+that one: 5
+excellent performances: 5
+time in: 5
+the magic: 5
+here is: 5
+deliciously: 5
+is very: 5
+from start: 5
+to finish: 5
+with humor: 5
+it comes: 5
+ancient: 5
+fourth: 5
+or even: 5
+opening: 5
+seen on: 5
+and richly: 5
+credit for: 5
+reach: 5
+long time: 5
+cynical: 5
+hoped: 5
+department: 5
+different and: 5
+same way: 5
+distinct: 5
+underlying: 5
+a tour: 5
+an unusual: 5
+string: 5
+refreshing to: 5
+infuses: 5
+breathtakingly: 5
+who like: 5
+separate: 5
+for more: 5
+nervy: 5
+taps: 5
+inspire: 5
+throwing: 5
+predictable but: 5
+piccoli: 5
+an emotionally: 5
+film whose: 5
+buffs: 5
+cho's: 5
+afraid to: 5
+her life: 5
+an audience: 5
+celebrity: 5
+13: 5
+town: 5
+the mark: 5
+a subtle: 5
+design: 5
+subtlety: 5
+to follow: 5
+psychological thriller: 5
+recognize: 5
+the many: 5
+a dream: 5
+d: 5
+self-conscious: 5
+some movies: 5
+a tasty: 5
+davis: 5
+auto: 5
+auto focus: 5
+matter is: 5
+be called: 5
+little movie: 5
+scorsese's: 5
+saturday: 5
+plot and: 5
+mothers: 5
+fathers: 5
+is actually: 5
+a beautifully: 5
+relies on: 5
+monsters: 5
+rarity: 5
+crack: 5
+makers: 5
+and there's: 5
+haven't seen: 5
+i didn't: 5
+blade ii: 5
+inside the: 5
+competent: 5
+charlie: 5
+performance in: 5
+past and: 5
+that seems: 5
+homage to: 5
+that its: 5
+vein: 5
+to capture: 5
+been more: 5
+of grief: 5
+two hours: 5
+us all: 5
+in such: 5
+think about: 5
+a subculture: 5
+greene's: 5
+audacious: 5
+embrace: 5
+cinema paradiso: 5
+of time: 5
+with more: 5
+awesome: 5
+raises: 5
+a decent: 5
+france: 5
+be and: 5
+party: 5
+puts a: 5
+extended: 5
+episode: 5
+when a: 5
+touched by: 5
+pity: 5
+of hollywood: 5
+is even: 5
+first and: 5
+an excellent: 5
+a narrative: 5
+two leads: 5
+the writing: 5
+a deeply: 5
+players: 5
+seems like: 5
+with which: 5
+kissing: 5
+kissing jessica: 5
+have seen: 5
+a captivating: 5
+years and: 5
+terrific performances: 5
+good as: 5
+piano: 5
+the piano: 5
+piano teacher: 5
+consider: 5
+in that: 5
+moments that: 5
+children and: 5
+appear: 5
+an admirable: 5
+weaves: 5
+the formula: 5
+of many: 5
+a glorious: 5
+minute: 5
+hoffman: 5
+private: 5
+for their: 5
+strikes a: 5
+flawed but: 5
+and if: 5
+you've got: 5
+submarine: 5
+character development: 5
+nasty: 5
+watching the: 5
+destination: 5
+colors: 5
+a beguiling: 5
+face and: 5
+valuable: 5
+to break: 5
+rap: 5
+it you: 5
+young men: 5
+shouldn't: 5
+it provides: 5
+meaningful: 5
+film industry: 5
+humor that: 5
+allow: 5
+feels like: 5
+had been: 5
+winner: 5
+list: 5
+kids and: 5
+we know: 5
+presented: 5
+a wry: 5
+family drama: 5
+characterizations: 5
+betrayal: 5
+without ever: 5
+grace and: 5
+connection: 5
+more emotional: 5
+improved: 5
+must-see: 5
+costumes: 5
+to work: 5
+tv: 5
+profile: 5
+young women: 5
+the beauty: 5
+turned: 5
+bogdanovich: 5
+movie to: 5
+special is: 5
+spoof: 5
+belly: 5
+share of: 5
+to convey: 5
+western: 5
+reminds us: 5
+beings: 5
+human beings: 5
+stomach: 5
+neatly: 5
+tedious: 5
+disappointing: 5
+would make: 5
+criminal: 5
+sympathy: 5
+but rather: 5
+grim: 5
+at his: 5
+the events: 5
+makes this: 5
+adventurous: 5
+to appreciate: 5
+are more: 5
+well-crafted: 5
+a red: 5
+lips is: 5
+pulls off: 5
+off a: 5
+nickleby: 5
+it isn't: 5
+trash: 5
+paxton: 5
+world war: 5
+war ii: 5
+of american: 5
+quick: 5
+the filmmaker's: 5
+vs: 5
+xxx: 5
+ways in: 5
+length: 5
+reaction: 5
+objective: 5
+defies: 5
+here and: 5
+buddy: 5
+will not: 5
+power and: 5
+thornberrys: 5
+wild thornberrys: 5
+thornberrys movie: 5
+is hard: 5
+a light: 5
+trek: 5
+fence: 5
+and intelligent: 5
+holm: 5
+the character: 5
+structure: 5
+nightmare: 5
+in and: 5
+as in: 5
+lives and: 5
+concert: 5
+an intense: 5
+than that: 5
+reflection: 5
+the love: 5
+that deserves: 5
+nerve: 5
+mad: 5
+the now: 5
+15: 5
+drama with: 5
+confirms: 5
+in america: 5
+for adults: 5
+to live: 5
+the comedy: 5
+but that's: 5
+the final: 5
+choice: 5
+for one: 5
+female friendship: 5
+lets you: 5
+changes: 5
+not entirely: 5
+watching a: 5
+to imagine: 5
+sensational: 5
+middle of: 5
+establishes: 5
+money: 5
+released: 5
+that shows: 5
+funny as: 5
+delivering a: 5
+bill: 5
+quirks: 5
+college: 5
+brosnan: 5
+directed with: 5
+uma: 5
+seductive: 5
+reminded: 5
+trifle: 5
+due: 5
+has done: 5
+for you: 5
+chills: 5
+to remember: 5
+repressed: 5
+and with: 5
+clashing: 5
+its sleeve: 5
+condition: 5
+lan: 5
+yu: 5
+lan yu: 5
+love stories: 5
+this story: 5
+bigger: 5
+ground: 5
+relief: 5
+this new: 5
+of french: 5
+silliness: 5
+you wish: 5
+the opera: 5
+the production: 5
+these characters: 5
+and mr: 5
+specifically: 5
+thing is: 5
+his story: 5
+a fair: 5
+to which: 5
+direction is: 5
+screenplay is: 5
+thoughtful and: 5
+difference: 5
+heard: 5
+'the: 5
+beast: 5
+not even: 5
+laughter: 5
+primarily: 5
+soap opera: 5
+strange and: 5
+exercise in: 5
+loneliness and: 5
+has its: 5
+the quiet: 5
+quiet american: 5
+dirty: 5
+deeds: 5
+of filmmaking: 5
+many a: 5
+k-19: 5
+sequels: 5
+smarter and: 5
+a part: 5
+argue: 5
+brutally: 5
+refusal: 5
+refusal to: 5
+heaven is: 5
+film doesn't: 5
+growing up: 5
+top-notch: 5
+started: 5
+its visual: 5
+vietnam: 5
+cost: 5
+films about: 5
+culture that: 5
+his usual: 5
+a must: 5
+it's never: 5
+has crafted: 5
+wit to: 5
+filmmaking but: 5
+but has: 5
+film noir: 5
+managed to: 5
+openness: 5
+of quiet: 5
+freshness: 5
+the overall: 5
+trashy: 5
+sisters: 5
+cannes: 5
+entertaining as: 5
+simultaneously: 5
+dignity: 5
+cautionary tale: 5
+a single: 5
+the moment: 5
+legacy: 5
+uncomfortable: 5
+1: 5
+10: 5
+about schmidt: 5
+reminiscent: 5
+reminiscent of: 5
+a satisfying: 5
+curves: 5
+women have: 5
+have curves: 5
+variety: 5
+got to: 5
+least a: 5
+if only: 5
+nevertheless: 5
+jokes: 5
+spell: 5
+ballot: 5
+wild ride: 5
+exquisite: 5
+respect for: 5
+a brilliant: 5
+cross: 5
+a really: 5
+observant: 5
+has all: 5
+proud: 5
+live in: 5
+politically: 5
+manhattan: 5
+executed: 5
+daily: 5
+mayhem: 5
+ideas and: 5
+ahead of: 5
+required: 5
+it's no: 5
+that as: 5
+broken: 5
+seem to: 5
+i am: 5
+nicholson: 5
+apart from: 5
+of women: 5
+manner of: 5
+lesser: 5
+explore: 5
+fluid: 5
+authority: 5
+keep you: 5
+a conventional: 5
+supporting: 5
+enthusiastic: 5
+timeless: 5
+that make: 5
+than anything: 5
+a smile: 5
+it's funny: 5
+the killer: 5
+performed: 5
+movie this: 5
+uncanny: 5
+of man: 5
+forgive: 5
+builds: 5
+has never: 5
+something to: 5
+be able: 5
+the head: 5
+improbable: 5
+conservative: 5
+with nothing: 5
+shots: 5
+laugh-out-loud: 5
+a stirring: 5
+columbine: 5
+art of: 5
+love in: 5
+attractive: 5
+encouraging: 5
+brown sugar: 5
+drawing: 5
+totally: 5
+maintain: 5
+with considerable: 5
+story as: 5
+once a: 5
+you and: 5
+art and: 5
+como: 5
+taking the: 5
+professional: 5
+confusing: 5
+just like: 5
+a dark: 5
+tells a: 5
+with her: 5
+the genre: 5
+is smart: 5
+wonders: 5
+ordinary: 5
+to avoid: 5
+waiting for: 5
+blue crush: 5
+shanghai: 5
+a tribute: 5
+an era: 5
+chase: 5
+seen before: 5
+determination: 5
+rings: 4
+r: 4
+biopic: 4
+neurotic: 4
+absolute: 4
+even those: 4
+of entertainment: 4
+has more: 4
+care of: 4
+my cat: 4
+tenderness: 4
+what really: 4
+the eye: 4
+we need: 4
+probe: 4
+fresh air: 4
+a cast: 4
+the top: 4
+our lives: 4
+frighteningly: 4
+connect: 4
+but for: 4
+those with: 4
+departure from: 4
+points for: 4
+95: 4
+treasure planet: 4
+maintains a: 4
+however it: 4
+grandeur and: 4
+tones: 4
+bow wow: 4
+if there's: 4
+i think: 4
+funeral: 4
+weddings and: 4
+a funeral: 4
+seemed: 4
+static: 4
+distinguished: 4
+is by: 4
+best work: 4
+the effort: 4
+stunts: 4
+outlandish: 4
+cgi: 4
+happy ending: 4
+uno: 4
+motown: 4
+film makes: 4
+everything else: 4
+real people: 4
+a culture: 4
+acknowledges: 4
+kick: 4
+and celebrates: 4
+of watching: 4
+unassuming: 4
+sandra: 4
+grant and: 4
+snow: 4
+plus: 4
+dose: 4
+dose of: 4
+amuse: 4
+it finds: 4
+finds a: 4
+hearts of: 4
+derrida: 4
+fellow: 4
+whether or: 4
+has always: 4
+little of: 4
+layered: 4
+involved in: 4
+struggles: 4
+heroes: 4
+invincible: 4
+herzog: 4
+alive and: 4
+callar: 4
+morvern callar: 4
+avoids the: 4
+bursts: 4
+the slow: 4
+struggle to: 4
+heal: 4
+experience and: 4
+i loved: 4
+a screenplay: 4
+can't wait: 4
+wait to: 4
+haneke: 4
+the reality: 4
+so far: 4
+rural: 4
+gives you: 4
+flourishes: 4
+a buoyant: 4
+movie the: 4
+animation and: 4
+field: 4
+intact: 4
+all is: 4
+lifts: 4
+promising: 4
+of favor: 4
+at how: 4
+its execution: 4
+steve: 4
+when they: 4
+double: 4
+enterprise: 4
+sequel to: 4
+just that: 4
+is often: 4
+and excitement: 4
+term: 4
+picture in: 4
+pray: 4
+his subjects: 4
+metaphor for: 4
+gut-wrenching: 4
+this may: 4
+to spend: 4
+unlike most: 4
+know the: 4
+manner that: 4
+nine: 4
+obviously: 4
+in other: 4
+walk to: 4
+legend: 4
+to prove: 4
+still has: 4
+him and: 4
+world and: 4
+and take: 4
+feat: 4
+marks a: 4
+a cinematic: 4
+qualities: 4
+and social: 4
+very little: 4
+it from: 4
+midnight: 4
+overcomes: 4
+doses: 4
+sensitivity: 4
+doses of: 4
+honesty and: 4
+senses: 4
+paints a: 4
+us the: 4
+lucas: 4
+folks who: 4
+force of: 4
+optimism: 4
+target audience: 4
+of urban: 4
+hoot: 4
+he's not: 4
+right place: 4
+tim: 4
+but never: 4
+absurd: 4
+believed: 4
+sister: 4
+do with: 4
+harmless: 4
+irish: 4
+fleeting: 4
+faithful to: 4
+we are: 4
+have no: 4
+age and: 4
+no matter: 4
+blues: 4
+chiller: 4
+a solidly: 4
+anywhere: 4
+can get: 4
+past the: 4
+the roots: 4
+roots of: 4
+a genre: 4
+not very: 4
+existence of: 4
+people are: 4
+disarming: 4
+environment: 4
+an experience: 4
+way but: 4
+analyze: 4
+amazingly: 4
+understands the: 4
+fame: 4
+nervous: 4
+gang: 4
+for them: 4
+peace: 4
+love it: 4
+queen: 4
+and she: 4
+entertainment that: 4
+sting: 4
+is interesting: 4
+joke: 4
+honor: 4
+get an: 4
+it plays: 4
+true story: 4
+good girl: 4
+for her: 4
+purely: 4
+lavish: 4
+that hollywood: 4
+admirably: 4
+film can: 4
+exceedingly: 4
+to forget: 4
+territory: 4
+guessing: 4
+an absorbing: 4
+and hilarious: 4
+tone poem: 4
+singular: 4
+denis: 4
+accessible and: 4
+spin: 4
+his life: 4
+greatly: 4
+the dialogue: 4
+complex and: 4
+and important: 4
+magical: 4
+entertaining but: 4
+nostalgia: 4
+jim: 4
+but you'll: 4
+todd: 4
+faults: 4
+piece that: 4
+date movie: 4
+benefits: 4
+zhao: 4
+brimming: 4
+brimming with: 4
+could easily: 4
+individuals: 4
+chronicle: 4
+it ultimately: 4
+soft: 4
+mysteries of: 4
+a generation: 4
+lively and: 4
+i can: 4
+a character: 4
+pumpkin: 4
+an impossible: 4
+is impossible: 4
+we might: 4
+it so: 4
+peculiar: 4
+direct: 4
+solid and: 4
+it should: 4
+directorial debut: 4
+wilde's: 4
+cleverness: 4
+occasional: 4
+rapidly: 4
+every day: 4
+to eat: 4
+interviews: 4
+sublime: 4
+interesting to: 4
+the women: 4
+the unique: 4
+is undeniable: 4
+pleasure in: 4
+messy: 4
+it uses: 4
+original and: 4
+but you: 4
+to love: 4
+who knows: 4
+is on: 4
+discussion: 4
+is full: 4
+for anyone: 4
+and beautiful: 4
+of you: 4
+read the: 4
+had a: 4
+been given: 4
+given a: 4
+mamet: 4
+that still: 4
+rough: 4
+darned: 4
+risk: 4
+choose: 4
+depth and: 4
+betty: 4
+in ways: 4
+is predictable: 4
+out for: 4
+an amusing: 4
+life on: 4
+enlightening: 4
+not so: 4
+watch as: 4
+make an: 4
+director who: 4
+post: 4
+performances that: 4
+middle-aged: 4
+while this: 4
+a sort: 4
+and strangely: 4
+grab: 4
+the nature: 4
+winds: 4
+actual: 4
+quaid: 4
+marching: 4
+cares: 4
+weak: 4
+the story's: 4
+perceptive: 4
+freaky: 4
+whole lot: 4
+mixes: 4
+does the: 4
+pianist is: 4
+making his: 4
+nails: 4
+introduction: 4
+as ever: 4
+strong performances: 4
+over-the-top: 4
+that reveals: 4
+boisterous: 4
+reveals the: 4
+we all: 4
+the family: 4
+sundance: 4
+dahmer: 4
+you love: 4
+international: 4
+back in: 4
+a major: 4
+not all: 4
+truth and: 4
+there's nothing: 4
+the gentle: 4
+metaphorical: 4
+keeps the: 4
+visual style: 4
+significance: 4
+hey: 4
+shower: 4
+although it: 4
+pretension: 4
+sam: 4
+confessions: 4
+may well: 4
+well be: 4
+z-boys: 4
+they do: 4
+menace: 4
+individual: 4
+skillful: 4
+and romance: 4
+make its: 4
+bruce: 4
+never feels: 4
+best movie: 4
+photo: 4
+flashes: 4
+one hour: 4
+flashes of: 4
+eerie: 4
+matthew: 4
+it up: 4
+for both: 4
+niro and: 4
+nonsense: 4
+potter: 4
+spiced: 4
+spiced with: 4
+the virtues: 4
+virtues of: 4
+the imax: 4
+but then: 4
+open-ended: 4
+refuses: 4
+refuses to: 4
+adventure for: 4
+polished and: 4
+antics: 4
+what will: 4
+to anyone: 4
+vulgar: 4
+vietnamese: 4
+camps: 4
+spirit and: 4
+disney's: 4
+live-action: 4
+they have: 4
+a terrible: 4
+to question: 4
+moments in: 4
+clear of: 4
+fans and: 4
+sunday: 4
+bloody sunday: 4
+theatre: 4
+the trip: 4
+recalls: 4
+lee's: 4
+revelation: 4
+not nearly: 4
+scored: 4
+acted and: 4
+beautifully shot: 4
+self-deprecating: 4
+of making: 4
+before but: 4
+restrained: 4
+and twisted: 4
+a subject: 4
+can make: 4
+very human: 4
+it's fun: 4
+fun but: 4
+super: 4
+he'll: 4
+sandler: 4
+distant: 4
+and insight: 4
+felt like: 4
+predictably: 4
+what might: 4
+susan: 4
+phenomenal: 4
+]: 4
+the hearts: 4
+through its: 4
+grown: 4
+innocence and: 4
+experience it: 4
+monsoon: 4
+monsoon wedding: 4
+quite funny: 4
+yet it: 4
+been made: 4
+with great: 4
+thousands of: 4
+of chinese: 4
+an irresistible: 4
+integrity of: 4
+few films: 4
+commerce: 4
+of race: 4
+kaufman's: 4
+head and: 4
+your own: 4
+that gets: 4
+allows the: 4
+realized: 4
+observation: 4
+intent: 4
+almost every: 4
+the sheer: 4
+be in: 4
+at this: 4
+reggio's: 4
+task: 4
+who don't: 4
+went: 4
+it's more: 4
+that's not: 4
+always a: 4
+life is: 4
+zhang: 4
+people's: 4
+spaces: 4
+themselves and: 4
+goals: 4
+conveys: 4
+manipulative: 4
+to two: 4
+kids will: 4
+camp: 4
+pays off: 4
+lean: 4
+neighborhood: 4
+a necessary: 4
+fascinating documentary: 4
+serviceable: 4
+liked it: 4
+the integrity: 4
+achieves a: 4
+balance of: 4
+is part: 4
+wallop: 4
+dickens': 4
+mcgrath's: 4
+the creative: 4
+connections: 4
+evoke: 4
+emperor's: 4
+the emperor's: 4
+this romantic: 4
+steeped in: 4
+atmosphere of: 4
+it's definitely: 4
+a sobering: 4
+resourceful: 4
+antwone: 4
+antwone fisher: 4
+an earnest: 4
+the courage: 4
+scope and: 4
+editing: 4
+lifestyle: 4
+japan: 4
+elevated: 4
+elevated by: 4
+contemplative: 4
+us into: 4
+quieter: 4
+old-school: 4
+experience of: 4
+fragile: 4
+begins with: 4
+definitely a: 4
+and involving: 4
+this version: 4
+seriousness: 4
+dickens: 4
+that's what: 4
+tortured: 4
+zealand: 4
+new zealand: 4
+animated feature: 4
+feature film: 4
+with plenty: 4
+budget: 4
+liberal: 4
+effects of: 4
+the elements: 4
+should have: 4
+found a: 4
+angry: 4
+far less: 4
+and full: 4
+than he: 4
+resonate: 4
+marginal: 4
+set of: 4
+of why: 4
+great one: 4
+punch-drunk: 4
+punch-drunk love: 4
+than i: 4
+holds the: 4
+together with: 4
+blunt: 4
+symbolic: 4
+of music: 4
+an incredibly: 4
+brings a: 4
+a group: 4
+equivalent of: 4
+beautifully acted: 4
+veneer: 4
+between a: 4
+time for: 4
+athletes: 4
+kevin: 4
+napoleon: 4
+movies but: 4
+characters to: 4
+cartoons: 4
+a happy: 4
+time when: 4
+uniquely: 4
+favorite: 4
+made about: 4
+to stand: 4
+but if: 4
+sincerity: 4
+risks: 4
+youthful: 4
+religious: 4
+an example: 4
+process of: 4
+being earnest: 4
+closely: 4
+warner: 4
+the path: 4
+ice age: 4
+before the: 4
+anchored: 4
+and because: 4
+the delicate: 4
+hawn: 4
+at their: 4
+his wife: 4
+downbeat: 4
+darkness: 4
+nonstop: 4
+starts out: 4
+cho: 4
+appears to: 4
+the hollywood: 4
+quite the: 4
+american film: 4
+film comes: 4
+and both: 4
+accomplishes: 4
+a breezy: 4
+game of: 4
+gyllenhaal: 4
+bitter: 4
+risky: 4
+possess: 4
+loose: 4
+speak: 4
+and witty: 4
+ourselves: 4
+beautiful and: 4
+the stories: 4
+aside from: 4
+afloat: 4
+brave: 4
+there's an: 4
+romp that: 4
+capacity: 4
+heat: 4
+even in: 4
+movie for: 4
+informative: 4
+that's all: 4
+all too: 4
+out but: 4
+touching and: 4
+aimed at: 4
+film not: 4
+ever had: 4
+screenwriter: 4
+that no: 4
+friend: 4
+the finest: 4
+sum: 4
+is less: 4
+examine: 4
+spellbinding: 4
+implies: 4
+order: 4
+chaos: 4
+the ending: 4
+a memorable: 4
+don't think: 4
+film since: 4
+robin: 4
+robin williams: 4
+he's been: 4
+jacquot: 4
+core of: 4
+i've ever: 4
+comedies that: 4
+scathing: 4
+taps into: 4
+presents a: 4
+indictment of: 4
+idealism: 4
+is certainly: 4
+charm to: 4
+recording: 4
+michel: 4
+inviting: 4
+no easy: 4
+easy answers: 4
+portrays: 4
+fact that: 4
+devices: 4
+in front: 4
+front of: 4
+cliches and: 4
+girl is: 4
+art-house: 4
+machine: 4
+critics: 4
+under your: 4
+your skin: 4
+production design: 4
+actors and: 4
+their roles: 4
+anger: 4
+byler: 4
+antidote: 4
+his two: 4
+sprightly: 4
+elegance: 4
+lyricism: 4
+provocative and: 4
+films it: 4
+to ponder: 4
+rhythms of: 4
+lo: 4
+sin: 4
+a psychological: 4
+to detail: 4
+display: 4
+light-hearted: 4
+101: 4
+all a: 4
+often very: 4
+earns: 4
+false: 4
+along the: 4
+lathan: 4
+diggs: 4
+not least: 4
+a mesmerizing: 4
+chew: 4
+colorful and: 4
+a feast: 4
+heady: 4
+into its: 4
+an exploration: 4
+what was: 4
+entry: 4
+never fails: 4
+fails to: 4
+spark: 4
+of special: 4
+transporting: 4
+companion: 4
+emerging: 4
+los: 4
+an elegant: 4
+bunch of: 4
+ignored: 4
+in contemporary: 4
+stretches: 4
+limits: 4
+intense and: 4
+expense: 4
+the expense: 4
+expense of: 4
+fighting: 4
+at all: 4
+sits: 4
+stuart little: 4
+interest in: 4
+prison: 4
+you find: 4
+to understand: 4
+believes: 4
+the show: 4
+dense: 4
+hybrid: 4
+one in: 4
+of course: 4
+takes you: 4
+action and: 4
+of considerable: 4
+shoulders: 4
+compelling and: 4
+hopefully: 4
+starring: 4
+breakthrough: 4
+that only: 4
+made but: 4
+demented: 4
+sex and: 4
+virtually: 4
+nothing more: 4
+odyssey: 4
+a gritty: 4
+turning: 4
+cheer: 4
+can see: 4
+classics: 4
+beats: 4
+wind: 4
+greatness: 4
+but an: 4
+context: 4
+isn't as: 4
+personalities: 4
+cutting: 4
+perverse: 4
+photography and: 4
+awards: 4
+controlled: 4
+graham: 4
+face on: 4
+angel: 4
+plays like: 4
+little too: 4
+too many: 4
+hours of: 4
+that's been: 4
+because it's: 4
+interaction: 4
+there has: 4
+message is: 4
+norton: 4
+steals: 4
+chomp: 4
+displays: 4
+uniformly: 4
+relaxed: 4
+adaptations: 4
+clear-eyed: 4
+minor miracle: 4
+candid: 4
+teenagers: 4
+apply: 4
+need not: 4
+resorting: 4
+stein: 4
+resorting to: 4
+jessica stein: 4
+dare: 4
+is beautiful: 4
+of hope: 4
+fine performances: 4
+garcia: 4
+duty: 4
+reflect: 4
+christopher: 4
+so good: 4
+a bittersweet: 4
+meditative: 4
+transformed: 4
+the four: 4
+a bright: 4
+how they: 4
+seats: 4
+service of: 4
+this documentary: 4
+out is: 4
+is better: 4
+versus: 4
+many ways: 4
+and make: 4
+wanting: 4
+you wanting: 4
+wanting more: 4
+brings to: 4
+and now: 4
+a comic: 4
+give the: 4
+3: 4
+engages: 4
+engaging film: 4
+ghost: 4
+hint: 4
+hint of: 4
+german: 4
+could make: 4
+overwhelming: 4
+the stage: 4
+and generally: 4
+remind: 4
+an otherwise: 4
+provides the: 4
+satirical: 4
+and subtly: 4
+plight: 4
+also one: 4
+along in: 4
+emphasizes: 4
+emphasizes the: 4
+list of: 4
+things to: 4
+studio: 4
+a stylish: 4
+cannot be: 4
+consequences: 4
+realistically: 4
+rage: 4
+obstacles: 4
+beneath the: 4
+questions about: 4
+solid performances: 4
+the case: 4
+it's refreshing: 4
+father and: 4
+interpretation: 4
+patient and: 4
+a quiet: 4
+clear that: 4
+veteran: 4
+acted by: 4
+bettany: 4
+the issues: 4
+bottom: 4
+outer: 4
+productions: 4
+com: 4
+shyamalan: 4
+gibson: 4
+and narrative: 4
+comedy-drama: 4
+a must-see: 4
+astounding: 4
+locales: 4
+are an: 4
+definition: 4
+stone: 4
+searing: 4
+suffers: 4
+suffers from: 4
+drag: 4
+great fun: 4
+baseball: 4
+regardless: 4
+sport: 4
+regardless of: 4
+characters in: 4
+potentially: 4
+take the: 4
+chuckle: 4
+that carries: 4
+altogether: 4
+director michael: 4
+before and: 4
+frustrating: 4
+is surely: 4
+which it: 4
+an unlikely: 4
+on this: 4
+a step: 4
+carmen: 4
+entertained: 4
+chemistry between: 4
+influence: 4
+starting: 4
+amiable: 4
+performance of: 4
+of just: 4
+of comedy: 4
+third: 4
+digs: 4
+bollywood: 4
+had the: 4
+warm water: 4
+water under: 4
+a quirky: 4
+scariest: 4
+blair: 4
+detective: 4
+detective story: 4
+existential: 4
+than an: 4
+any more: 4
+mendes: 4
+witty and: 4
+grind: 4
+on and: 4
+damage: 4
+goods: 4
+extraordinarily: 4
+can enjoy: 4
+shadow: 4
+solutions: 4
+characters that: 4
+children's: 4
+hoping: 4
+we were: 4
+of sadness: 4
+steven spielberg: 4
+theatrical: 4
+i can't: 4
+creatures: 4
+to another: 4
+fake: 4
+as we: 4
+look away: 4
+admire the: 4
+a reminder: 4
+endure: 4
+between them: 4
+and dark: 4
+wollter: 4
+gothic: 4
+to put: 4
+lurid: 4
+decided: 4
+and ends: 4
+ends with: 4
+nicholas: 4
+star trek: 4
+rabbit-proof: 4
+rabbit-proof fence: 4
+knack: 4
+exuberance: 4
+beach: 4
+it just: 4
+to read: 4
+reunion: 4
+may seem: 4
+'70s: 4
+brooding: 4
+son's: 4
+it goes: 4
+profoundly: 4
+considered: 4
+the emotions: 4
+anyone who's: 4
+their work: 4
+pokes: 4
+black and: 4
+and compelling: 4
+place and: 4
+chateau: 4
+cleverly: 4
+the chateau: 4
+impression: 4
+not since: 4
+movie you: 4
+it looks: 4
+status: 4
+screens: 4
+film will: 4
+rival: 4
+pulse: 4
+dramatically: 4
+the fun: 4
+chabrol: 4
+excess: 4
+dynamics: 4
+unhurried: 4
+to form: 4
+a strangely: 4
+a creepy: 4
+i want: 4
+and revelatory: 4
+panache: 4
+dealing: 4
+truthful: 4
+and quite: 4
+intensity of: 4
+combat: 4
+sentiments: 4
+wife is: 4
+utterly charming: 4
+around a: 4
+a genuinely: 4
+correctness: 4
+political correctness: 4
+does so: 4
+corny: 4
+20th century: 4
+again and: 4
+a life: 4
+and when: 4
+hidden: 4
+a high: 4
+is told: 4
+goodfellas: 4
+put on: 4
+pic: 4
+palma: 4
+de palma: 4
+stimulating: 4
+candy: 4
+look as: 4
+similarly: 4
+economical: 4
+emotional and: 4
+of charm: 4
+cultures and: 4
+draw: 4
+onto: 4
+scott: 4
+curious: 4
+movies have: 4
+collision: 4
+stereotypes: 4
+wave: 4
+the core: 4
+any number: 4
+is quite: 4
+hardly a: 4
+script by: 4
+toes: 4
+keep us: 4
+find the: 4
+crafted and: 4
+more often: 4
+failure: 4
+covers: 4
+african: 4
+globe: 4
+message that: 4
+solaris: 4
+a thought-provoking: 4
+oliver: 4
+movie does: 4
+one's: 4
+low: 4
+but on: 4
+suitable: 4
+heroine: 4
+back at: 4
+capable of: 4
+gere: 4
+diane: 4
+diane lane: 4
+brilliant and: 4
+from one: 4
+guts: 4
+is good: 4
+who live: 4
+with us: 4
+pertinent: 4
+struggling: 4
+elusive: 4
+found myself: 4
+b movie: 4
+as i: 4
+green: 4
+communal: 4
+now and: 4
+and i'm: 4
+silent: 4
+kosminsky: 4
+their characters: 4
+comes off: 4
+off as: 4
+unique and: 4
+aficionados: 4
+of films: 4
+steal: 4
+shocks: 4
+aims: 4
+once the: 4
+it succeeds: 4
+the direction: 4
+in addition: 4
+that offers: 4
+pick up: 4
+instincts: 4
+the difference: 4
+of popcorn: 4
+liberating: 4
+mouth: 4
+payne: 4
+laughing: 4
+this deeply: 4
+by turns: 4
+igby: 4
+unfaithful: 4
+duvall: 4
+fluff: 4
+you believe: 4
+giddy: 4
+to our: 4
+youth: 4
+reason to: 4
+legged: 4
+freaks: 4
+eight legged: 4
+legged freaks: 4
+and thoughtful: 4
+reminds you: 4
+center: 4
+watch and: 4
+french coming-of-age: 4
+humanity of: 4
+are in: 4
+verbal: 4
+different from: 4
+primary: 4
+casting of: 4
+original but: 4
+letting: 4
+away with: 4
+an old-fashioned: 4
+accept: 4
+henry: 4
+lilo: 4
+shock: 4
+that goes: 4
+as far: 4
+far as: 4
+much that: 4
+about growing: 4
+self-discovery: 4
+cultural and: 4
+and personal: 4
+soldiers: 4
+recovery: 4
+a dazzling: 4
+gun: 4
+members of: 4
+picture is: 4
+it manages: 4
+worse: 4
+dysfunctional: 4
+assassin: 4
+does give: 4
+well done: 4
+sumptuous: 4
+throws: 4
+it's far: 4
+as both: 4
+young woman: 4
+new film: 4
+that does: 4
+of new: 4
+festival in: 4
+in cannes: 4
+you're looking: 4
+last kiss: 4
+expectation: 4
+and surprising: 4
+pathology: 4
+an unflinching: 4
+elegantly: 4
+look and: 4
+and memorable: 4
+doesn't make: 4
+happened: 4
+eloquently: 4
+ryan gosling: 4
+thomas: 4
+costume: 4
+costume drama: 4
+its worst: 4
+dismissed: 4
+sitting: 4
+carried: 4
+strictly: 4
+silver: 4
+bullets: 4
+and quirky: 4
+es una: 4
+being able: 4
+deep into: 4
+keeping the: 4
+earth: 4
+is going: 4
+going on: 4
+hilarity: 4
+lesson in: 4
+os: 4
+score and: 4
+great movie: 4
+barry: 4
+documentary is: 4
+secret ballot: 4
+and unsettling: 4
+highest: 4
+generous: 4
+the highest: 4
+production values: 4
+and respect: 4
+tomorrow: 4
+a playful: 4
+earnestness: 4
+to happen: 4
+take you: 4
+a familiar: 4
+achingly: 4
+solidly entertaining: 4
+abstract: 4
+allowing: 4
+police: 4
+benefit: 4
+continues to: 4
+the essence: 4
+essence of: 4
+controversy: 4
+experience that: 4
+you see: 4
+redemption: 4
+not an: 4
+and on: 4
+you out: 4
+excels: 4
+enigmatic: 4
+chabrol's: 4
+that puts: 4
+puts the: 4
+is essentially: 4
+essentially a: 4
+be something: 4
+worth taking: 4
+graphic: 4
+making a: 4
+nearly as: 4
+wise and: 4
+break your: 4
+story in: 4
+flamboyant: 4
+nomination: 4
+oscar nomination: 4
+dover: 4
+the manner: 4
+nair's: 4
+die: 4
+another day: 4
+hannibal: 4
+pauline: 4
+a vibrant: 4
+situations: 4
+and into: 4
+nicole: 4
+is clever: 4
+tuned: 4
+penetrating: 4
+handled: 4
+movie experience: 4
+substantial: 4
+douglas: 4
+an odd: 4
+problematic: 4
+including the: 4
+make up: 4
+fancy: 4
+yiddish: 4
+lanes: 4
+changing lanes: 4
+tired: 4
+cohesive: 4
+and stylish: 4
+that his: 4
+kids 2: 4
+your time: 4
+tension and: 4
+and other: 4
+recommended: 4
+hackneyed: 4
+nachtwey: 4
+plain: 4
+profile of: 4
+unusually: 4
+needed to: 4
+whale: 4
+an hour: 4
+and two: 4
+sophisticated and: 4
+extra: 4
+pacing: 4
+a second: 4
+computer: 4
+james bond: 4
+into one: 4
+as this: 4
+caught: 4
+worth your: 4
+astonishingly: 4
+for that: 4
+but director: 4
+outing: 4
+of such: 4
+mr deeds: 4
+evokes the: 4
+beautifully crafted: 4
+doesn't always: 4
+french film: 4
+calm: 4
+a slightly: 4
+lacks the: 4
+deserved: 4
+written and: 4
+stitch: 4
+the history: 4
+bowling: 4
+for columbine: 4
+her is: 4
+until the: 4
+properly: 4
+marvelously: 4
+from an: 4
+layers: 4
+conversations about: 4
+atmospheric: 4
+rises: 4
+he's the: 4
+human being: 4
+to overcome: 4
+to win: 4
+rohmer's: 4
+the notion: 4
+that come: 4
+canny: 4
+slip: 4
+direction of: 4
+an action: 4
+also has: 4
+forced: 4
+and never: 4
+rank: 4
+simplistic: 4
+war movies: 4
+any less: 4
+amor: 4
+composition: 4
+more fun: 4
+to each: 4
+capturing the: 4
+end you: 4
+film never: 4
+chilling and: 4
+first-rate: 4
+of romance: 4
+child's: 4
+intellect: 4
+especially if: 4
+poverty: 4
+upon the: 4
+the title: 4
+secretary is: 4
+picture and: 4
+on their: 4
+a flawed: 4
+flaws and: 4
+island: 4
+rodriguez: 4
+do the: 4
+any movie: 4
+succeeds as: 4
+biting: 4
+lingering: 4
+deliberately: 4
+and engrossing: 4
+film its: 4
+da: 4
+a hilarious: 4
+transforms: 4
+seen through: 4
+that actually: 4
+summer of: 4
+outcome: 4
+venture: 4
+an ambitious: 4
+deeply moving: 4
+give it: 4
+we feel: 4
+alternative: 4
+ideal: 4
+script's: 4
+the script's: 4
+shanghai ghetto: 4
+to you: 4
+find that: 4
+has ever: 4
+renner: 4
+daring and: 4
+reveal: 4
+when you're: 4
+funny film: 4
+ache: 4
+worked: 4
+comic timing: 4
+sets out: 4
+good but: 4
+web of: 4
+day of: 4
+poor: 4
+the strength: 4
+a genuine: 4
+justify: 4
+backdrop: 4
+anguish: 4
+action sequences: 4
+immediate: 4
+21st: 3
+splash: 3
+arnold: 3
+van: 3
+the rock: 3
+the 21st: 3
+elaborate: 3
+lord: 3
+trilogy: 3
+adequately: 3
+describe: 3
+the lord: 3
+place to: 3
+issue: 3
+keenly: 3
+that's so: 3
+doesn't feel: 3
+mindset: 3
+the game: 3
+entertainment and: 3
+intentions: 3
+road to: 3
+snappy: 3
+heads: 3
+and genuine: 3
+wendigo: 3
+why we: 3
+we go: 3
+reasons: 3
+ultimately it: 3
+wrote: 3
+reputation: 3
+author: 3
+an utterly: 3
+who ever: 3
+a breath: 3
+humanizing: 3
+independent: 3
+that includes: 3
+about our: 3
+composed: 3
+philip: 3
+a disturbing: 3
+philip glass: 3
+good-hearted: 3
+rocks: 3
+idealistic: 3
+associated: 3
+a brisk: 3
+familiar story: 3
+associated with: 3
+to play: 3
+guaranteed to: 3
+a masterful: 3
+a master: 3
+projects: 3
+think it's: 3
+a far: 3
+cantet: 3
+hotel: 3
+vincent's: 3
+laissez-passer: 3
+a distinguished: 3
+be had: 3
+border: 3
+that they: 3
+loses its: 3
+pena: 3
+ver: 3
+uno de: 3
+musicians: 3
+sweat: 3
+the beat: 3
+else in: 3
+about real: 3
+and darkly: 3
+overview: 3
+overview of: 3
+happy to: 3
+to them: 3
+sandra bullock: 3
+nettelbeck: 3
+transformation of: 3
+the chilly: 3
+as her: 3
+lovable: 3
+to surprise: 3
+package: 3
+enough of: 3
+other and: 3
+fascinating and: 3
+beloved: 3
+tuck: 3
+always been: 3
+richness: 3
+insecure: 3
+the animated: 3
+well and: 3
+portraying: 3
+satin: 3
+satin rouge: 3
+rouge is: 3
+it avoids: 3
+sudden: 3
+bursts of: 3
+a taut: 3
+coming-of-age drama: 3
+a fierce: 3
+from her: 3
+appearance: 3
+if this: 3
+confront: 3
+to confront: 3
+reality of: 3
+of sexual: 3
+be rewarded: 3
+two of: 3
+and riveting: 3
+a startling: 3
+an imaginative: 3
+narc is: 3
+vistas: 3
+beautiful to: 3
+that there's: 3
+kapur: 3
+english-language: 3
+filmmaker with: 3
+flair for: 3
+bouncy: 3
+escort: 3
+a blast: 3
+sports movie: 3
+field and: 3
+you care: 3
+doug: 3
+liman: 3
+documents: 3
+and charming: 3
+realization: 3
+realization of: 3
+jarring: 3
+nothing else: 3
+of psychological: 3
+channel: 3
+3-d: 3
+opened: 3
+to sustain: 3
+imaginatively: 3
+curiosity: 3
+roller-coaster: 3
+roller-coaster ride: 3
+ride of: 3
+while i: 3
+surprised at: 3
+brash: 3
+sardonic: 3
+joyful: 3
+method: 3
+speed: 3
+their relationships: 3
+perils: 3
+outshine: 3
+outshine the: 3
+operates: 3
+rules: 3
+2000: 3
+they can: 3
+today's: 3
+tempting: 3
+regard: 3
+andrew: 3
+earnhart's: 3
+the term: 3
+documentary on: 3
+reality and: 3
+a metaphor: 3
+ambition: 3
+accomplishment: 3
+in scope: 3
+films but: 3
+cube: 3
+revelations: 3
+regarding: 3
+compassionate: 3
+healing: 3
+swimming: 3
+little-known: 3
+some intriguing: 3
+biography: 3
+an enthralling: 3
+bucks: 3
+unaffected: 3
+you should: 3
+because you: 3
+finesse: 3
+host: 3
+at first: 3
+some truly: 3
+struck: 3
+and should: 3
+have nothing: 3
+fessenden's: 3
+so in: 3
+meal: 3
+shut: 3
+a pair: 3
+pair of: 3
+ark: 3
+russian ark: 3
+terribly: 3
+essential: 3
+stars and: 3
+newcomers: 3
+who know: 3
+know it: 3
+if your: 3
+that tries: 3
+a sad: 3
+shows us: 3
+the times: 3
+the special: 3
+the folks: 3
+george lucas: 3
+win any: 3
+for originality: 3
+originality it: 3
+by offering: 3
+a hoot: 3
+when he's: 3
+not giving: 3
+giving the: 3
+well-meaning: 3
+human comedy: 3
+played out: 3
+out on: 3
+the back: 3
+factor: 3
+smacks: 3
+means a: 3
+is great: 3
+his fellow: 3
+grasp of: 3
+here's a: 3
+a british: 3
+determined to: 3
+a lively: 3
+be believed: 3
+ray: 3
+liotta: 3
+charlotte: 3
+everything that: 3
+and everything: 3
+borstal: 3
+borstal boy: 3
+brendan: 3
+fraser: 3
+by michael: 3
+caine and: 3
+twin: 3
+stephen: 3
+trailer: 3
+flick that: 3
+behavior and: 3
+heavy-handed: 3
+howard: 3
+if somewhat: 3
+follows: 3
+resolutely: 3
+crush is: 3
+trials: 3
+the complexity: 3
+complexity of: 3
+shallow: 3
+nice to: 3
+wait for: 3
+insight and: 3
+engagingly: 3
+magnetic: 3
+flow of: 3
+of friendship: 3
+buried: 3
+as some: 3
+some very: 3
+thoroughly enjoyable: 3
+because this: 3
+has seen: 3
+the worst: 3
+analyze that: 3
+that bad: 3
+character-driven: 3
+a droll: 3
+you'll ever: 3
+ever have: 3
+a landmark: 3
+cop: 3
+superstar: 3
+and sound: 3
+way we: 3
+enjoy a: 3
+a close: 3
+don't really: 3
+mild: 3
+put together: 3
+fun as: 3
+miyazaki: 3
+tadpole: 3
+a sophisticated: 3
+slight but: 3
+parental: 3
+have their: 3
+bored: 3
+whether you're: 3
+you'll still: 3
+goodness: 3
+gifts: 3
+to offer: 3
+australian: 3
+all it: 3
+it won't: 3
+a joke: 3
+extends: 3
+of jean: 3
+is entertaining: 3
+doesn't do: 3
+a painful: 3
+actions: 3
+has taken: 3
+unabashed: 3
+policy: 3
+castro: 3
+a timely: 3
+role that: 3
+foreign policy: 3
+played in: 3
+the rise: 3
+to satisfy: 3
+clumsy: 3
+impresses: 3
+almost as: 3
+work with: 3
+footnote: 3
+seldom: 3
+footnote to: 3
+brought to: 3
+nerves: 3
+labor: 3
+workplace: 3
+or an: 3
+an absurdist: 3
+infuriating: 3
+amy's: 3
+bond movie: 3
+movie which: 3
+than your: 3
+your typical: 3
+epics: 3
+and bad: 3
+one whose: 3
+testud: 3
+and co-writer: 3
+motivations: 3
+keen: 3
+variations: 3
+motherhood: 3
+variations on: 3
+the theme: 3
+of motherhood: 3
+discord: 3
+the passions: 3
+shadowy: 3
+whether you: 3
+art direction: 3
+narrative but: 3
+one can't: 3
+attached: 3
+and we: 3
+attached to: 3
+and vitality: 3
+important film: 3
+story that's: 3
+the beginning: 3
+rhythm and: 3
+is somewhat: 3
+the ideas: 3
+window into: 3
+todd solondz: 3
+windtalkers: 3
+its faults: 3
+to admit: 3
+where you: 3
+you live: 3
+astute: 3
+to escape: 3
+faces: 3
+with honesty: 3
+you wouldn't: 3
+call the: 3
+but when: 3
+benefits from: 3
+volumes: 3
+nuance and: 3
+that speaks: 3
+speaks volumes: 3
+ability of: 3
+spirit to: 3
+events that: 3
+shainberg: 3
+succeeded: 3
+making them: 3
+oppressive: 3
+chronicle of: 3
+a soft: 3
+the mysteries: 3
+using his: 3
+his audience: 3
+audience as: 3
+defines: 3
+witness: 3
+victim: 3
+victim of: 3
+of ms: 3
+romanek: 3
+considering: 3
+incendiary: 3
+notch: 3
+once you: 3
+all or: 3
+affecting and: 3
+exactly as: 3
+as thought-provoking: 3
+know what: 3
+what to: 3
+absolutely no: 3
+a polished: 3
+own cleverness: 3
+hunter: 3
+agenda: 3
+line between: 3
+ultimately the: 3
+of trouble: 3
+that all: 3
+shamelessly: 3
+appetite: 3
+like me: 3
+me a: 3
+but mostly: 3
+humor is: 3
+is of: 3
+the sweet: 3
+and occasionally: 3
+to hear: 3
+the count: 3
+impossible not: 3
+be moved: 3
+moved by: 3
+his words: 3
+and images: 3
+reflective and: 3
+principals: 3
+but because: 3
+celebratory: 3
+what's most: 3
+comedy the: 3
+wisely: 3
+temptation: 3
+ram: 3
+disappointed: 3
+but those: 3
+are likely: 3
+be disappointed: 3
+a heart: 3
+a brain: 3
+insecurity: 3
+culture of: 3
+of fear: 3
+connect-the-dots: 3
+fun for: 3
+all those: 3
+enjoying: 3
+of steven: 3
+steven soderbergh's: 3
+tug: 3
+and you'll: 3
+enjoyed the: 3
+could say: 3
+ways that: 3
+thing you: 3
+anna: 3
+who just: 3
+coppola: 3
+heck: 3
+become the: 3
+an eye: 3
+his next: 3
+to new: 3
+to visit: 3
+applaud: 3
+viewers to: 3
+palatable: 3
+sorrow: 3
+expands: 3
+treatise: 3
+empowerment: 3
+and lyrical: 3
+notion that: 3
+to build: 3
+very satisfying: 3
+learning: 3
+clash: 3
+who would: 3
+actor who: 3
+drugs and: 3
+winds up: 3
+hands: 3
+thought-provoking film: 3
+who cares: 3
+foul: 3
+family fare: 3
+attal: 3
+represented: 3
+both in: 3
+as does: 3
+a tight: 3
+ethnic: 3
+role and: 3
+dramatization: 3
+perdition: 3
+morbid: 3
+dramatization of: 3
+to shake: 3
+introduction to: 3
+as sharp: 3
+be like: 3
+rebel: 3
+much about: 3
+oodles: 3
+oodles of: 3
+writing and: 3
+are not: 3
+to learn: 3
+transition: 3
+an examination: 3
+society in: 3
+acceptance: 3
+a tender: 3
+quest to: 3
+celebrated: 3
+glib: 3
+of manners: 3
+winning performances: 3
+performances as: 3
+it's only: 3
+would expect: 3
+nothing less: 3
+from this: 3
+and/or: 3
+designed: 3
+backgrounds: 3
+album: 3
+to miss: 3
+it's rare: 3
+lot more: 3
+swim: 3
+there's much: 3
+charles: 3
+written by: 3
+affection for: 3
+notting: 3
+notting hill: 3
+the character's: 3
+that everyone: 3
+turbulent: 3
+drum: 3
+are often: 3
+raise: 3
+maudlin: 3
+seldahl and: 3
+impress: 3
+george clooney: 3
+a talented: 3
+director and: 3
+he's a: 3
+a dangerous: 3
+maids: 3
+closest: 3
+murderous maids: 3
+dogtown and: 3
+and z-boys: 3
+charisma and: 3
+a slick: 3
+horror film: 3
+growth: 3
+often enough: 3
+campbell: 3
+deserve: 3
+kinnear gives: 3
+a tremendous: 3
+near the: 3
+takes on: 3
+hour photo: 3
+of insight: 3
+creates an: 3
+to my: 3
+and murphy: 3
+time with: 3
+movie despite: 3
+exudes: 3
+nostalgic: 3
+familiar but: 3
+free of: 3
+demand: 3
+a dumb: 3
+enchanting: 3
+to ride: 3
+the talents: 3
+talents of: 3
+above its: 3
+wry humor: 3
+to demonstrate: 3
+imax format: 3
+surprisingly funny: 3
+stick: 3
+end it's: 3
+wounds: 3
+hip: 3
+at any: 3
+is terrific: 3
+rare in: 3
+in film: 3
+ghosts: 3
+postmodern: 3
+without becoming: 3
+becoming a: 3
+wondering: 3
+after you: 3
+subtext: 3
+entertaining enough: 3
+h: 3
+notorious c: 3
+c h: 3
+h o: 3
+hopes: 3
+a splendid: 3
+of spirit: 3
+occasion: 3
+the images: 3
+opinion: 3
+kahlo: 3
+more satisfying: 3
+film festival: 3
+rohmer: 3
+articulate: 3
+working from: 3
+enticing: 3
+counts: 3
+it really: 3
+a visceral: 3
+that transcends: 3
+supply: 3
+the theatre: 3
+shattering: 3
+velocity: 3
+momentum: 3
+personal velocity: 3
+and over: 3
+falling: 3
+the pieces: 3
+his way: 3
+though not: 3
+questioning: 3
+mores: 3
+cheesy: 3
+macabre: 3
+jason x: 3
+the artist: 3
+it's been: 3
+generations: 3
+test: 3
+rebellion: 3
+is being: 3
+beating: 3
+below the: 3
+unpleasant: 3
+a female: 3
+with no: 3
+reduced: 3
+and death: 3
+is mesmerizing: 3
+soul and: 3
+that feels: 3
+agent: 3
+1999: 3
+retains: 3
+constraints: 3
+depths: 3
+compulsively: 3
+compulsively watchable: 3
+uncertain: 3
+film delivers: 3
+desperately: 3
+madonna: 3
+k: 3
+korea: 3
+] is: 3
+nice little: 3
+takes us: 3
+maguire: 3
+work but: 3
+runs on: 3
+exuberant: 3
+subtitles: 3
+the subtitles: 3
+type of: 3
+evident: 3
+to deliver: 3
+man in: 3
+qualify: 3
+a cruel: 3
+of thousands: 3
+qualify as: 3
+guys and: 3
+films this: 3
+been as: 3
+film]: 3
+addresses: 3
+local: 3
+[the film]: 3
+politics and: 3
+plot is: 3
+mull: 3
+better in: 3
+works but: 3
+functions: 3
+sensitive and: 3
+guard: 3
+invitation: 3
+does best: 3
+the larger: 3
+every scene: 3
+observation of: 3
+al: 3
+and suspenseful: 3
+audacity: 3
+insanity: 3
+no classic: 3
+relying: 3
+without relying: 3
+relying on: 3
+fail: 3
+explode: 3
+manic: 3
+and perhaps: 3
+the task: 3
+purpose: 3
+lay: 3
+good deal: 3
+object: 3
+along for: 3
+truth that: 3
+recipe: 3
+daughter: 3
+danang: 3
+daughter from: 3
+from danang: 3
+because they: 3
+breathes: 3
+adding: 3
+fuzzy: 3
+and have: 3
+for our: 3
+our times: 3
+has managed: 3
+such as: 3
+smith's: 3
+is simple: 3
+about their: 3
+vividly conveys: 3
+baggage: 3
+two-thirds: 3
+fast and: 3
+ravishing: 3
+smartest: 3
+the smartest: 3
+the summer: 3
+sights: 3
+sights and: 3
+and sounds: 3
+a completely: 3
+i love: 3
+faith and: 3
+debut as: 3
+a lean: 3
+and engaging: 3
+you know: 3
+glow: 3
+it an: 3
+teasing: 3
+hayek: 3
+brit: 3
+the delicious: 3
+speculation: 3
+life-affirming: 3
+gross-out: 3
+restraint: 3
+the inherent: 3
+led: 3
+burstein: 3
+footage of: 3
+his family: 3
+a brief: 3
+era of: 3
+possession: 3
+meets: 3
+drew: 3
+an uneven: 3
+emotional wallop: 3
+best thing: 3
+show us: 3
+compellingly: 3
+paintings: 3
+corners: 3
+club: 3
+an especially: 3
+emperor's club: 3
+wartime: 3
+1940s: 3
+defiantly: 3
+swashbuckling: 3
+entertainment but: 3
+a celebration: 3
+of living: 3
+but is: 3
+is solid: 3
+convictions: 3
+courage of: 3
+young people: 3
+and yes: 3
+lifetime: 3
+graceful: 3
+that gradually: 3
+the political: 3
+aggressively: 3
+makes its: 3
+message about: 3
+plan: 3
+devotion: 3
+look into: 3
+joys: 3
+jackson and: 3
+themselves in: 3
+that every: 3
+the books: 3
+a unique: 3
+it brings: 3
+to your: 3
+doc: 3
+an exciting: 3
+meaning of: 3
+even its: 3
+egoyan: 3
+and compassion: 3
+lad: 3
+mcgrath: 3
+the novel: 3
+coupled: 3
+than what: 3
+coupled with: 3
+a quietly: 3
+the kids: 3
+and heart: 3
+exposes: 3
+heartache: 3
+miike: 3
+plot that: 3
+and murder: 3
+as powerful: 3
+marshall: 3
+skip: 3
+it at: 3
+when he: 3
+embracing: 3
+those films: 3
+film together: 3
+despite a: 3
+much in: 3
+difficult to: 3
+at it: 3
+film it: 3
+together in: 3
+dig: 3
+cinematic equivalent: 3
+arguments: 3
+pace and: 3
+thematic: 3
+experimental: 3
+and refreshingly: 3
+shine: 3
+need a: 3
+be remembered: 3
+overkill: 3
+exhausted: 3
+onscreen: 3
+adapted: 3
+taylor: 3
+hungry: 3
+need for: 3
+ample: 3
+interesting characters: 3
+to fill: 3
+respects: 3
+yarn that: 3
+by it: 3
+deepest: 3
+of moral: 3
+enjoyed it: 3
+encourage: 3
+engaged in: 3
+years to: 3
+byatt: 3
+and depth: 3
+works well: 3
+will appeal: 3
+familiar with: 3
+you expect: 3
+will you: 3
+seeming: 3
+thinks: 3
+gamble: 3
+slow and: 3
+the promise: 3
+she is: 3
+dead-end: 3
+experimentation: 3
+that stands: 3
+director's previous: 3
+funny look: 3
+weaknesses: 3
+utter: 3
+established: 3
+bros: 3
+warner bros: 3
+anchored by: 3
+wins: 3
+eccentricities: 3
+nuances of: 3
+the day: 3
+screenplay and: 3
+binoche: 3
+perfect in: 3
+in these: 3
+raunchy: 3
+susan sarandon: 3
+goes down: 3
+masses: 3
+one for: 3
+the masses: 3
+man who: 3
+talking about: 3
+aspirations: 3
+people from: 3
+and spiritual: 3
+its source: 3
+source material: 3
+parade: 3
+parade of: 3
+settled: 3
+tone than: 3
+brilliance: 3
+its performances: 3
+leads are: 3
+a modest: 3
+that accomplishes: 3
+jackson has: 3
+orange: 3
+county: 3
+refreshing change: 3
+maggie: 3
+romantic and: 3
+something like: 3
+movies the: 3
+intelligent romantic: 3
+alien: 3
+after a: 3
+heart-wrenching: 3
+showcase: 3
+raw and: 3
+tale that: 3
+make and: 3
+mundane: 3
+and haunting: 3
+the mundane: 3
+simone: 3
+being the: 3
+with remarkable: 3
+stays afloat: 3
+tu: 3
+mamá: 3
+también: 3
+y tu: 3
+tu mamá: 3
+mamá también: 3
+to heal: 3
+the heat: 3
+humanity that: 3
+run-of-the-mill: 3
+max: 3
+hard not: 3
+dreams of: 3
+pokemon: 3
+keep your: 3
+titles: 3
+the opening: 3
+television: 3
+multiplex: 3
+irwin: 3
+priceless: 3
+family's: 3
+repetitive: 3
+keep it: 3
+it interesting: 3
+scams: 3
+effortless: 3
+neglected: 3
+standing: 3
+and care: 3
+careers: 3
+feature but: 3
+that many: 3
+bien: 3
+in quite: 3
+and wonderfully: 3
+divertida: 3
+friendships: 3
+classic but: 3
+call this: 3
+to match: 3
+lewis: 3
+and lewis: 3
+contrived and: 3
+could ever: 3
+don't make: 3
+dares to: 3
+on screen: 3
+the comic: 3
+spot on: 3
+nearly three: 3
+conduct is: 3
+hours is: 3
+grain: 3
+and subversive: 3
+collide: 3
+an underlying: 3
+throughout the: 3
+the chaos: 3
+and wonderful: 3
+salute: 3
+the universal: 3
+opportunity to: 3
+an asian: 3
+sappy: 3
+string of: 3
+translation: 3
+his first: 3
+conveys the: 3
+strict: 3
+superficially: 3
+infuses the: 3
+reaching: 3
+tissues: 3
+drives: 3
+a scathing: 3
+sexuality: 3
+depends: 3
+the recording: 3
+are of: 3
+odd and: 3
+a star: 3
+star vehicle: 3
+vehicle for: 3
+3d: 3
+giving it: 3
+jumps: 3
+with style: 3
+importantly: 3
+hell house: 3
+michel piccoli: 3
+but to: 3
+moviegoers who: 3
+thinking about: 3
+akin: 3
+cinematic experience: 3
+akin to: 3
+story the: 3
+ambiguous: 3
+icon: 3
+settings: 3
+says: 3
+fearless: 3
+flawless: 3
+kids who: 3
+jaded: 3
+radar: 3
+13 conversations: 3
+slow to: 3
+hits the: 3
+of getting: 3
+skin and: 3
+with you: 3
+hallucinatory: 3
+a provocative: 3
+the intelligent: 3
+large cast: 3
+the outstanding: 3
+frontal is: 3
+fans who: 3
+films in: 3
+and sprightly: 3
+hang: 3
+we'll: 3
+as close: 3
+más: 3
+es un: 3
+range: 3
+gets to: 3
+to perfection: 3
+other times: 3
+saucy: 3
+chemistry and: 3
+lit: 3
+when we: 3
+the play: 3
+mentally: 3
+member: 3
+the future: 3
+grown-ups: 3
+science fiction: 3
+shape: 3
+most american: 3
+discomfort: 3
+inherent in: 3
+controversial: 3
+latest effort: 3
+effort is: 3
+lathan and: 3
+and diggs: 3
+adroitly: 3
+director john: 3
+her husband: 3
+of genuine: 3
+be but: 3
+plenty to: 3
+chew on: 3
+pleasantly: 3
+out as: 3
+own way: 3
+movie becomes: 3
+remarkable film: 3
+japanese animation: 3
+emptiness: 3
+san: 3
+thematically: 3
+stunning and: 3
+everywhere: 3
+pristine: 3
+a nicely: 3
+scottish: 3
+vaguely: 3
+its script: 3
+and among: 3
+right at: 3
+saturday matinee: 3
+unmistakable: 3
+spark of: 3
+its two: 3
+baran: 3
+iran: 3
+its director: 3
+that most: 3
+feast of: 3
+of visual: 3
+racism: 3
+revenge and: 3
+the sometimes: 3
+mothers and: 3
+de los: 3
+enveloping: 3
+literal: 3
+is anything: 3
+is concerned: 3
+big deal: 3
+that's a: 3
+vulnerable: 3
+a bunch: 3
+addict: 3
+bet: 3
+brand: 3
+story like: 3
+like life: 3
+times but: 3
+director george: 3
+city where: 3
+eventual: 3
+tall: 3
+way and: 3
+market: 3
+a rarity: 3
+in new: 3
+new or: 3
+a wildly: 3
+find yourself: 3
+goal: 3
+theater and: 3
+urge: 3
+left with: 3
+in to: 3
+urge to: 3
+conveying: 3
+its predecessors: 3
+no longer: 3
+ridiculous: 3
+outright: 3
+you watch: 3
+exists: 3
+fine acting: 3
+saved: 3
+unbearable: 3
+saved from: 3
+the storytelling: 3
+storytelling and: 3
+prepare: 3
+malkovich: 3
+charlie kaufman: 3
+being john: 3
+john malkovich: 3
+typically: 3
+characters he: 3
+carries the: 3
+tell a: 3
+perhaps the: 3
+and resonant: 3
+drop: 3
+stylist: 3
+of sex: 3
+to date: 3
+culkin: 3
+young man: 3
+than two: 3
+the hell: 3
+inimitable: 3
+keep this: 3
+does such: 3
+fine job: 3
+its world: 3
+the classic: 3
+vein of: 3
+of black: 3
+comedy in: 3
+round: 3
+there was: 3
+friendly: 3
+we can: 3
+made by: 3
+the classics: 3
+as art: 3
+slap: 3
+the era: 3
+or another: 3
+makes an: 3
+throw: 3
+we don't: 3
+and cutting: 3
+music to: 3
+hopeful and: 3
+blisteringly: 3
+every other: 3
+heightened: 3
+fashioned: 3
+little story: 3
+hardy: 3
+raises the: 3
+imperfect: 3
+of action: 3
+documentary to: 3
+have easily: 3
+of familial: 3
+wildlife: 3
+ethics: 3
+hatred: 3
+on it: 3
+are times: 3
+times when: 3
+an extended: 3
+its spirit: 3
+married: 3
+horror and: 3
+epic of: 3
+kinds: 3
+kinds of: 3
+strangers: 3
+election: 3
+a woman: 3
+enjoyable film: 3
+mothman: 3
+conscience: 3
+a difficult: 3
+from your: 3
+harry potter: 3
+admission: 3
+alone is: 3
+of admission: 3
+from under: 3
+narrative film: 3
+i'm sure: 3
+considerably: 3
+open-minded: 3
+fundamentals: 3
+family fundamentals: 3
+gift for: 3
+authentic and: 3
+scare: 3
+necessarily: 3
+not necessarily: 3
+without resorting: 3
+nolan: 3
+deny: 3
+possibility: 3
+unlike the: 3
+as life: 3
+a potent: 3
+thirst: 3
+blockbusters: 3
+is cool: 3
+enjoys: 3
+artistry: 3
+movie isn't: 3
+to reflect: 3
+work yet: 3
+plummer: 3
+prime: 3
+vincent: 3
+clinical: 3
+genius: 3
+teacher is: 3
+afternoon: 3
+rental: 3
+set pieces: 3
+the job: 3
+job done: 3
+that way: 3
+our own: 3
+relate: 3
+can relate: 3
+it deserves: 3
+a wide: 3
+will touch: 3
+touch the: 3
+their seats: 3
+centuries: 3
+leave it: 3
+the service: 3
+a vision: 3
+the city: 3
+was more: 3
+swedish: 3
+to film: 3
+movies this: 3
+this will: 3
+will make: 3
+complex characters: 3
+seinfeld: 3
+you'll love: 3
+love this: 3
+a poem: 3
+acting is: 3
+a marvel: 3
+marvel of: 3
+pitched: 3
+period drama: 3
+majidi: 3
+savor: 3
+still there: 3
+there for: 3
+wants to: 3
+lessons: 3
+sparkles: 3
+reality that: 3
+come with: 3
+film buffs: 3
+balance between: 3
+lovely film: 3
+and sexual: 3
+entertains: 3
+and story: 3
+a hint: 3
+twisty: 3
+queens: 3
+nine queens: 3
+offerings: 3
+beginners: 3
+effect of: 3
+of most: 3
+italian for: 3
+for beginners: 3
+gasp: 3
+the spectacle: 3
+spectacle of: 3
+readily: 3
+cuisine: 3
+colors and: 3
+suffered: 3
+to remind: 3
+self-awareness: 3
+artifice: 3
+either the: 3
+two young: 3
+hurt: 3
+amid: 3
+a superior: 3
+appropriate: 3
+fuss: 3
+doesn't give: 3
+the cold: 3
+a deep: 3
+absurdity: 3
+gentle humor: 3
+absurdity of: 3
+powers films: 3
+of fresh: 3
+air but: 3
+woody: 3
+force and: 3
+precision: 3
+give them: 3
+if they: 3
+survivors: 3
+in every: 3
+a winner: 3
+of things: 3
+and why: 3
+casual: 3
+fans could: 3
+stylish and: 3
+be said: 3
+canon: 3
+plot's: 3
+the plot's: 3
+my interest: 3
+a fast: 3
+the consequences: 3
+cover: 3
+crime drama: 3
+follow-up: 3
+are far: 3
+presented with: 3
+an infectious: 3
+spontaneity: 3
+develops: 3
+study that: 3
+empty: 3
+and finely: 3
+above all: 3
+and complex: 3
+bits: 3
+rarely been: 3
+presentation: 3
+film as: 3
+military: 3
+expect from: 3
+on some: 3
+against all: 3
+all odds: 3
+basis: 3
+wisdom and: 3
+times the: 3
+the startling: 3
+the children: 3
+a father: 3
+of jealousy: 3
+huston: 3
+bouquet: 3
+berling: 3
+superbly acted: 3
+mcdowell: 3
+fascinating to: 3
+point the: 3
+fine line: 3
+campanella: 3
+fulfill: 3
+traveler: 3
+killing: 3
+of epic: 3
+a typical: 3
+in for: 3
+take us: 3
+conjures: 3
+magic of: 3
+privileged: 3
+must-see for: 3
+and action: 3
+cinematography and: 3
+given the: 3
+imaginative and: 3
+ambitious than: 3
+sprecher: 3
+definition of: 3
+is and: 3
+and knows: 3
+spring: 3
+edgy: 3
+saves: 3
+humor of: 3
+size: 3
+receive: 3
+avoid the: 3
+familiarity: 3
+takes the: 3
+precise: 3
+illness: 3
+moving portrait: 3
+and affection: 3
+fascinates: 3
+de la: 3
+cinema at: 3
+a higher: 3
+triumphs: 3
+surrounds: 3
+sends: 3
+shared: 3
+its share: 3
+to transcend: 3
+this a: 3
+watched: 3
+looks as: 3
+without much: 3
+film while: 3
+hit theaters: 3
+tunes: 3
+monte: 3
+cristo: 3
+monte cristo: 3
+movie star: 3
+'analyze: 3
+be when: 3
+we haven't: 3
+and human: 3
+content: 3
+jane: 3
+a performance: 3
+of cinematic: 3
+tricky: 3
+narrative and: 3
+banter: 3
+sprawling: 3
+piece to: 3
+aim: 3
+skill and: 3
+shades: 3
+study in: 3
+best to: 3
+ends in: 3
+mind of: 3
+passing: 3
+anyone with: 3
+a passing: 3
+most compelling: 3
+the company: 3
+company of: 3
+appreciate the: 3
+baby: 3
+the powerful: 3
+wryly: 3
+of monsoon: 3
+chain: 3
+applies: 3
+good sense: 3
+bridge: 3
+red bridge: 3
+bridge is: 3
+and poignant: 3
+nature and: 3
+touches the: 3
+dumas: 3
+delectable: 3
+not apply: 3
+at last: 3
+witch: 3
+blair witch: 3
+unknowable: 3
+search for: 3
+he makes: 3
+just when: 3
+it can't: 3
+alongside: 3
+the goods: 3
+marquis: 3
+the marquis: 3
+de sade: 3
+feature is: 3
+racial: 3
+prejudice: 3
+the shadow: 3
+shadow side: 3
+more substance: 3
+most films: 3
+and quick: 3
+the lively: 3
+her characters: 3
+huppert's: 3
+ensures: 3
+thoughts: 3
+compliment: 3
+if i: 3
+remember the: 3
+and heartfelt: 3
+specific: 3
+sadness and: 3
+arc: 3
+hope and: 3
+o filme: 3
+operatic: 3
+entertainingly: 3
+to consider: 3
+heart this: 3
+is most: 3
+put in: 3
+inspires: 3
+awareness: 3
+best movies: 3
+battle scenes: 3
+reaction to: 3
+haunts: 3
+ah: 3
+jackson is: 3
+a greater: 3
+of urgency: 3
+documentary can: 3
+strengths: 3
+griffiths: 3
+continually: 3
+loyalty: 3
+offers much: 3
+grounded: 3
+riveted: 3
+to endure: 3
+the form: 3
+bio-pic: 3
+sven: 3
+viveka: 3
+are complex: 3
+sven wollter: 3
+viveka seldahl: 3
+make their: 3
+practically: 3
+good that: 3
+weight: 3
+fascination: 3
+recommendation: 3
+alienation: 3
+separation: 3
+separation and: 3
+and loss: 3
+least the: 3
+clouds: 3
+exactly what: 3
+contrivance: 3
+it needs: 3
+resolution: 3
+a full: 3
+his work: 3
+a knack: 3
+knack for: 3
+french comedy: 3
+as she: 3
+scene and: 3
+courtroom: 3
+trial: 3
+most contemporary: 3
+jolting: 3
+younger: 3
+of lives: 3
+might otherwise: 3
+retro: 3
+catholic: 3
+fabric: 3
+feelings: 3
+successor: 3
+european: 3
+artists and: 3
+love of: 3
+be considered: 3
+will strike: 3
+strike a: 3
+a nerve: 3
+with anyone: 3
+who's ever: 3
+holy: 3
+good old-fashioned: 3
+movie you're: 3
+these women: 3
+this kind: 3
+a passion: 3
+friel: 3
+nothing is: 3
+and white: 3
+of place: 3
+15 years: 3
+probes: 3
+differences: 3
+comedy to: 3
+2002's: 3
+very least: 3
+style that: 3
+a harrowing: 3
+eyes of: 3
+loss and: 3
+conviction to: 3
+while watching: 3
+of others: 3
+claude chabrol: 3
+and desperate: 3
+the difficult: 3
+intermittently: 3
+convoluted: 3
+muddle: 3
+long and: 3
+a muddle: 3
+interest and: 3
+and empathy: 3
+choice for: 3
+chronicles: 3
+parents and: 3
+for fans: 3
+positively: 3
+subject of: 3
+godard's: 3
+balances: 3
+that deftly: 3
+it lets: 3
+the passion: 3
+is powerful: 3
+out like: 3
+mamet's: 3
+flesh: 3
+film seems: 3
+like watching: 3
+construction: 3
+to face: 3
+proper: 3
+seem like: 3
+helped: 3
+jean reno: 3
+impressions: 3
+no way: 3
+got a: 3
+feeling that: 3
+scratching: 3
+sensational and: 3
+proof: 3
+simple but: 3
+dealing with: 3
+westerners: 3
+spots: 3
+amounts: 3
+amounts of: 3
+the intensity: 3
+in black: 3
+counterparts: 3
+ensemble comedy: 3
+my wife: 3
+cuts to: 3
+trust: 3
+day-lewis: 3
+scorsese: 3
+and highly: 3
+above-average: 3
+debut is: 3
+coen: 3
+coen brothers: 3
+of political: 3
+you never: 3
+don't want: 3
+to use: 3
+the key: 3
+and again: 3
+caruso: 3
+suggest: 3
+corruption: 3
+the sight: 3
+sight of: 3
+affable: 3
+and unforgettable: 3
+complexities: 3
+of surprises: 3
+more concerned: 3
+by showing: 3
+crime story: 3
+undisputed: 3
+isn't exactly: 3
+wiseman: 3
+recreates: 3
+american and: 3
+chaiken: 3
+a woman's: 3
+na: 3
+bumbling: 3
+be another: 3
+brian: 3
+eye and: 3
+go down: 3
+minimalist: 3
+hefty: 3
+horror movie: 3
+reminded me: 3
+me of: 3
+haynes': 3
+mood and: 3
+from heaven: 3
+off this: 3
+ride with: 3
+a taste: 3
+a mess: 3
+few movies: 3
+you into: 3
+midlife: 3
+midlife crisis: 3
+both as: 3
+collision of: 3
+comically: 3
+optimistic: 3
+it actually: 3
+is life: 3
+psychic: 3
+wondered: 3
+ever wondered: 3
+wondered what: 3
+what an: 3
+anne: 3
+fontaine's: 3
+seeds: 3
+form of: 3
+forgiveness: 3
+the quality: 3
+quality of: 3
+and intelligence: 3
+movies like: 3
+enriched: 3
+enriched by: 3
+eye for: 3
+manners and: 3
+holes: 3
+almost everyone: 3
+who sees: 3
+a brutal: 3
+often than: 3
+breadth: 3
+the physical: 3
+countless: 3
+the complicated: 3
+threatens: 3
+threatens to: 3
+a touch: 3
+touch of: 3
+it back: 3
+moods: 3
+filmmakers who: 3
+a failure: 3
+martha is: 3
+modern day: 3
+heart on: 3
+dangerously: 3
+auteuil: 3
+featuring a: 3
+the globe: 3
+that allows: 3
+hasn't: 3
+two decades: 3
+he was: 3
+issues that: 3
+next generation: 3
+downright: 3
+yu is: 3
+chinese life: 3
+lion: 3
+the lion: 3
+lion king: 3
+years ago: 3
+fest: 3
+demonstrates a: 3
+understanding of: 3
+unconventional: 3
+richard: 3
+form a: 3
+this and: 3
+have any: 3
+digital video: 3
+appreciated: 3
+good enough: 3
+their way: 3
+enjoyable and: 3
+cinematically: 3
+mythic: 3
+perfect for: 3
+second half: 3
+modern-day: 3
+fairy: 3
+these guys: 3
+foremost: 3
+i would: 3
+french cinema: 3
+characters is: 3
+sight gags: 3
+gags that: 3
+the silliness: 3
+spider: 3
+experiences of: 3
+a deeper: 3
+stand in: 3
+have an: 3
+the early: 3
+days of: 3
+is derivative: 3
+borders: 3
+more timely: 3
+leaping: 3
+condensed: 3
+story line: 3
+by director: 3
+peter kosminsky: 3
+tenor: 3
+well enough: 3
+all these: 3
+of affection: 3
+we believe: 3
+ni: 3
+pedigree: 3
+disappoint: 3
+alike: 3
+high crimes: 3
+integrity and: 3
+the band: 3
+lightly: 3
+character to: 3
+fair amount: 3
+extent: 3
+aims to: 3
+all at: 3
+is impressive: 3
+intelligently: 3
+goes a: 3
+frank: 3
+is there: 3
+an undeniable: 3
+difference between: 3
+orders: 3
+last orders: 3
+pretty funny: 3
+approaches: 3
+bought: 3
+a matinee: 3
+the sea: 3
+iconoclastic: 3
+noise: 3
+tale with: 3
+with little: 3
+flaws but: 3
+a fantastic: 3
+wrenching: 3
+adaptation is: 3
+contradictory: 3
+analytical: 3
+darker: 3
+infidelity: 3
+the high: 3
+australia: 3
+trappings: 3
+the quirky: 3
+young woman's: 3
+lambs: 3
+other than: 3
+silence of: 3
+the lambs: 3
+maelstrom: 3
+yet compelling: 3
+came: 3
+life but: 3
+deadly: 3
+relevant: 3
+born: 3
+i'm the: 3
+funny stuff: 3
+saying: 3
+obsessions: 3
+what he: 3
+he allows: 3
+quietly moving: 3
+you come: 3
+a family: 3
+delightful comedy: 3
+grandiosity: 3
+le: 3
+allegory: 3
+years after: 3
+thin: 3
+impulse: 3
+violence and: 3
+and intimate: 3
+director to: 3
+driven: 3
+with every: 3
+driven by: 3
+illustrates: 3
+what sets: 3
+element of: 3
+well acted: 3
+alert: 3
+chief: 3
+collaboration: 3
+movie i've: 3
+strain: 3
+credibility: 3
+the horror: 3
+situation in: 3
+great film: 3
+responsibility: 3
+the casting: 3
+gem of: 3
+stands as: 3
+insanely: 3
+solid cast: 3
+cannot help: 3
+the rich: 3
+miyazaki's: 3
+teeming: 3
+argue that: 3
+brutally honest: 3
+or really: 3
+witherspoon: 3
+sons: 3
+a lyrical: 3
+achieves its: 3
+cost of: 3
+state of: 3
+filmmaking and: 3
+are pretty: 3
+savage: 3
+definitely worth: 3
+an impeccable: 3
+with ideas: 3
+michael moore's: 3
+that uses: 3
+of great: 3
+seen a: 3
+fish: 3
+must for: 3
+boring: 3
+shining: 3
+movie should: 3
+enhances: 3
+enhances the: 3
+broomfield's: 3
+screen is: 3
+are both: 3
+is enough: 3
+with passion: 3
+and attitude: 3
+fantasy of: 3
+a silly: 3
+it weren't: 3
+stuck: 3
+first-class: 3
+go with: 3
+backstage: 3
+million: 3
+which may: 3
+how i: 3
+i killed: 3
+killed my: 3
+my father: 3
+interview: 3
+interview with: 3
+cliche: 3
+a level: 3
+hedonistic: 3
+limited: 3
+and small: 3
+ocean: 3
+visuals and: 3
+trick of: 3
+us care: 3
+whenever: 3
+figured: 3
+figured out: 3
+late marriage: 3
+survival: 3
+economic: 3
+of images: 3
+palpable: 3
+cell: 3
+phones: 3
+cell phones: 3
+malcolm: 3
+that's as: 3
+and go: 3
+admittedly: 3
+austerity: 3
+a clear-eyed: 3
+reveals how: 3
+shows how: 3
+found in: 3
+freaks is: 3
+mel: 3
+90-minute: 3
+mel gibson: 3
+the nation: 3
+made to: 3
+something new: 3
+prism: 3
+experiment: 3
+sane: 3
+contemplation: 3
+a sane: 3
+captured: 3
+overall it's: 3
+a wonderfully: 3
+found the: 3
+weep: 3
+and heartwarming: 3
+prevent: 3
+is but: 3
+homosexuality: 3
+an average: 3
+discovery of: 3
+a class: 3
+with that: 3
+decasia: 3
+black-and-white: 3
+each of: 3
+life out: 3
+theories: 3
+between two: 3
+minimum: 3
+the enjoyable: 3
+is hardly: 3
+feral: 3
+creativity and: 3
+powerpuff: 3
+the powerpuff: 3
+powerpuff girls: 3
+demanding: 3
+fills: 3
+a sexy: 3
+drama set: 3
+somebody: 3
+call it: 3
+blockbuster: 3
+summer blockbuster: 3
+and worth: 3
+swallow: 3
+hanks: 3
+depression: 3
+darling: 3
+as though: 3
+the tiny: 3
+the giant: 3
+short on: 3
+a thoroughly: 3
+to provide: 3
+provide an: 3
+never again: 3
+proves to: 3
+juicy: 3
+murder of: 3
+critical: 3
+kaufman and: 3
+smart funny: 3
+pitch: 3
+the pitch: 3
+a document: 3
+salma: 3
+of real: 3
+burns': 3
+this makes: 3
+your kids: 3
+cheese: 3
+first one: 3
+little 2: 3
+2 is: 3
+train: 3
+plays out: 3
+it the: 3
+irritating: 3
+feel as: 3
+documentary but: 3
+to admire: 3
+a respectable: 3
+is visually: 3
+very best: 3
+folk: 3
+forget that: 3
+just want: 3
+without feeling: 3
+and they: 3
+a message: 3
+fascinating glimpse: 3
+being in: 3
+to view: 3
+destruction: 3
+of who: 3
+who did: 3
+tragedy and: 3
+crucial: 3
+though a: 3
+friday: 3
+can say: 3
+is nevertheless: 3
+sand: 3
+a delicious: 3
+and fanciful: 3
+heartbreak: 3
+older: 3
+you'd expect: 3
+hype: 3
+rollicking: 3
+the hype: 3
+a rollicking: 3
+doubt that: 3
+satisfyingly: 3
+and gently: 3
+ballot is: 3
+trenchant: 3
+a witty: 3
+for most: 3
+the distance: 3
+chick: 3
+evil dead: 3
+awkwardness: 3
+overwrought: 3
+waves: 3
+very well: 3
+conquer: 3
+sketchy: 3
+to emerge: 3
+remembering: 3
+moments to: 3
+1960s: 3
+the 1960s: 3
+convince: 3
+world that: 3
+enduring: 3
+various: 3
+audience members: 3
+also happens: 3
+willingness: 3
+and almost: 3
+willingness to: 3
+writer and: 3
+jolt: 3
+rush: 3
+note: 3
+'it's: 3
+better to: 3
+its cast: 3
+down a: 3
+and finally: 3
+dragon is: 3
+flawed and: 3
+juan: 3
+a modern: 3
+girls': 3
+tragically: 3
+the girls': 3
+full-bodied: 3
+a tragic: 3
+conviction that: 3
+they used: 3
+make movies: 3
+three-hour: 3
+eyre: 3
+its message: 3
+lot like: 3
+– but: 3
+still quite: 3
+charged: 3
+quitting: 3
+centered: 3
+impact is: 3
+cuban: 3
+come away: 3
+of cuban: 3
+chaplin: 3
+interesting look: 3
+is generally: 3
+existed: 3
+solondz's: 3
+breaks: 3
+lends the: 3
+sign: 3
+abandon: 3
+freeman: 3
+weighty: 3
+that like: 3
+master of: 3
+capability: 3
+disquieting: 3
+and frequently: 3
+of ideas: 3
+artist's: 3
+kwan: 3
+heart as: 3
+kids to: 3
+a glimpse: 3
+spent: 3
+like you've: 3
+anachronistic: 3
+comic book: 3
+blame: 3
+viewing for: 3
+creating a: 3
+the con: 3
+newcomer: 3
+texture: 3
+chimps: 3
+strongest: 3
+ok: 3
+isn't nearly: 3
+his actors: 3
+screen in: 3
+lofty: 3
+genial: 3
+of emotion: 3
+climactic: 3
+the climactic: 3
+combine: 3
+isn't afraid: 3
+genre and: 3
+a problem: 3
+men with: 3
+plot twists: 3
+gangster no: 3
+no 1: 3
+looking at: 3
+than ever: 3
+and universal: 3
+tradition and: 3
+the soulful: 3
+the meaning: 3
+damaged: 3
+people and: 3
+can offer: 3
+die another: 3
+his character: 3
+film what: 3
+paulette: 3
+terrific as: 3
+muccino: 3
+pale: 3
+entertainment value: 3
+ozpetek: 3
+ranks of: 3
+to explore: 3
+eerily: 3
+never seen: 3
+it if: 3
+catching: 3
+worth catching: 3
+writing is: 3
+extravaganza: 3
+pulpy: 3
+thrillers of: 3
+look back: 3
+audiences will: 3
+villainous: 3
+nearly impossible: 3
+to care: 3
+watching this: 3
+this gentle: 3
+morning: 3
+endearing and: 3
+can take: 3
+will keep: 3
+undercurrent: 3
+the gifted: 3
+you ever: 3
+supporting cast: 3
+after all: 3
+humane: 3
+a deft: 3
+douglas mcgrath's: 3
+nicholas nickleby: 3
+punching: 3
+inoffensive: 3
+israel: 3
+humorous and: 3
+reassuring: 3
+carol: 3
+to shock: 3
+anderson: 3
+adam: 3
+adam sandler: 3
+pulls the: 3
+radiant: 3
+the players: 3
+reel: 3
+x is: 3
+friendship that: 3
+more complex: 3
+actress and: 3
+right to: 3
+sobre: 3
+smile on: 3
+your face: 3
+makes one: 3
+success of: 3
+lanes is: 3
+practice: 3
+and subtle: 3
+and warmth: 3
+constructs: 3
+punk: 3
+tense: 3
+danny: 3
+gives an: 3
+three films: 3
+is given: 3
+more fascinating: 3
+wedding is: 3
+thought-provoking and: 3
+also somewhat: 3
+unbelievable: 3
+of mr: 3
+a convincing: 3
+convey a: 3
+installment: 3
+12-year-old: 3
+forcefully: 3
+and culture: 3
+jolts: 3
+the laughs: 3
+danger: 3
+conspiracy: 3
+flashy: 3
+diesel: 3
+box: 3
+a double: 3
+1950s: 3
+the 1950s: 3
+ain't: 3
+engrossing story: 3
+passes: 3
+it's that: 3
+and sweet: 3
+a terrifying: 3
+pop culture: 3
+wonder of: 3
+believe that: 3
+with incident: 3
+i'm going: 3
+the wonderful: 3
+keep things: 3
+it sets: 3
+for itself: 3
+just plain: 3
+alice: 3
+the current: 3
+suburban: 3
+borrows: 3
+and comes: 3
+certainly an: 3
+an invaluable: 3
+record of: 3
+to grow: 3
+nearly every: 3
+terry: 3
+cops: 3
+which will: 3
+to forgive: 3
+pitch-perfect: 3
+in hollywood: 3
+films to: 3
+romances: 3
+have that: 3
+strong and: 3
+often funny: 3
+this engaging: 3
+falls short: 3
+or two: 3
+entertaining movie: 3
+underbelly: 3
+follow the: 3
+in movies: 3
+underbelly of: 3
+in on: 3
+square: 3
+tastelessness: 3
+impressed: 3
+pulling: 3
+spin on: 3
+sexual and: 3
+into what: 3
+its final: 3
+and history: 3
+man whose: 3
+atlantic: 3
+the atlantic: 3
+yet it's: 3
+in favor: 3
+favor of: 3
+schrader: 3
+audience over: 3
+down in: 3
+may sound: 3
+don't need: 3
+end we: 3
+insane: 3
+case study: 3
+as entertaining: 3
+dish: 3
+traditions: 3
+our most: 3
+as possible: 3
+original in: 3
+philosophy: 3
+action film: 3
+decency: 3
+knowledge that: 3
+and sweetly: 3
+now in: 3
+culture and: 3
+action-packed: 3
+frustration: 3
+express their: 3
+but enjoyable: 3
+straightforward and: 3
+rage and: 3
+full monty: 3
+a low-key: 3
+kids but: 3
+the romantic: 3
+variety of: 3
+frozen: 3
+wake: 3
+push: 3
+rug: 3
+the rug: 3
+laughed: 3
+then again: 3
+lilo stitch: 3
+first film: 3
+most original: 3
+conditions: 3
+see scratch: 3
+scratch for: 3
+bowling for: 3
+and thought-provoking: 3
+burns: 3
+screenwriting: 3
+the main: 3
+fantasy with: 3
+gong: 3
+is mostly: 3
+directly: 3
+dream of: 3
+insightfully: 3
+film so: 3
+reliable: 3
+to never: 3
+las: 3
+inspiration: 3
+saving: 3
+adventure is: 3
+look of: 3
+thesis: 3
+whole family: 3
+coming-of-age film: 3
+a joy: 3
+joy to: 3
+a word: 3
+thirteen: 3
+thirteen conversations: 3
+small gem: 3
+the pleasure: 3
+together to: 3
+a string: 3
+york city: 3
+ian: 3
+ian holm: 3
+guns: 3
+the country: 3
+sloppy: 3
+succeeds in: 3
+unknown: 3
+a mood: 3
+of suspense: 3
+thing to: 3
+it's quite: 3
+caught up: 3
+handling: 3
+mere: 3
+weirdness: 3
+and there: 3
+just one: 3
+the bizarre: 3
+instantly: 3
+recognizable: 3
+movie without: 3
+movie will: 3
+resistance: 3
+notion of: 3
+for any: 3
+from both: 3
+the scariest: 3
+unblinking: 3
+hashiguchi: 3
+uses the: 3
+say it: 3
+retelling: 3
+alexandre: 3
+sneaks: 3
+sneaks up: 3
+this case: 3
+arrives: 3
+once in: 3
+especially the: 3
+drags: 3
+commentary: 3
+ended: 3
+wondrous: 3
+sounds of: 3
+compared: 3
+compared to: 3
+unfolds with: 3
+cletis: 3
+either a: 3
+the relationship: 3
+in making: 3
+any other: 3
+you thought: 3
+it one: 3
+a walk: 3
+inexplicable: 3
+and last: 3
+walter: 3
+of thought: 3
+half-bad: 3
+away is: 3
+itself is: 3
+action films: 3
+that was: 3
+one word: 3
+who really: 3
+woman who: 3
+funny little: 3
+coming-of-age movie: 3
+overrun: 3
+minutes but: 3
+native: 3
+mexican: 3
+breaking: 3
+evening: 3
+education and: 3
+collectively: 3
+reluctant: 3
+fits: 3
+rude: 3
+around him: 3
+spectacularly: 3
+particularly the: 3
+no-frills: 3
+multiple: 3
+film more: 3
+and pathos: 3
+prospect: 3
+the prospect: 3
+prospect of: 3
+which also: 3
+vampire: 3
+a visually: 3
+never knew: 3
+this fascinating: 3
+gosford: 3
+historia: 3
+donde: 3
+craft: 3
+ringu: 3
+film like: 3
+feel-good movie: 3
+movie it's: 3
+seams: 3
+are simply: 3
+about love: 3
+affectionate: 3
+war between: 3
+argentine: 3
+with your: 3
+ichi: 3
+study with: 3
+real life: 3
+a tone: 3
+spider-man is: 3
+potential for: 3
+title character: 3
+producer: 3
+superficial: 3
+knows its: 3
+nijinsky's: 3
+themes of: 3
+cinema but: 3
+turn out: 3
+right up: 3
+lonely: 3
+regret: 3
+it's better: 3
+crafted a: 3
+chaotic: 3
+spotlight: 3
+which they: 3
+access: 3
+access to: 3
+off in: 3
+a peek: 3
+and life: 3
+dark comedy: 3
+heroic: 3
+is sure: 3
+from any: 3
+you off: 3
+thumbs: 3
+thumbs up: 3
+elevates: 3
+by david: 3
+elevates the: 3
+the war: 3
+at work: 3
+the cultural: 3
+curiously: 3
+a guilty: 3
+the potential: 3
+inhabit: 3
+frequent: 3
+artist who: 3
+what i: 3
+judd: 3
+is surprisingly: 3
+is filled: 3
+acute: 3
+saga of: 3
+grew: 3
+inner-city: 3
+paid in: 3
+send: 3
+elements of: 3
+a war: 3
+the look: 3
+piercing: 3
+a romance: 3
+is made: 3
+into this: 3
+with wit: 3
+it entertaining: 3
+impressively: 3
+buddy movie: 3
+faith in: 3
+than by: 3
+a pleasing: 3
+rare movie: 3
+shrugging: 3
+the outcome: 3
+us is: 3
+self-esteem: 3
+his movie: 3
+questions than: 3
+mental: 3
+a fall: 3
+deeds is: 3
+for being: 3
+of storytelling: 3
+extravagant: 3
+dana: 3
+janklowicz-mann: 3
+east: 3
+dana janklowicz-mann: 3
+stately: 3
+sorvino: 3
+summer entertainment: 3
+a feature: 3
+chooses: 3
+champion: 3
+losing: 3
+parent: 3
+advertised: 3
+pants: 3
+introspective: 3
+niche: 3
+relationships in: 3
+role of: 3
+the things: 3
+psycho: 3
+to american: 3
+i know: 3
+objectivity: 3
+it's got: 3
+parody: 3
+rare films: 3
+of acting: 3
+and writer: 3
+lazy: 3
+for children: 3
+dragons: 3
+out from: 3
+on how: 3
+definitive: 3
+notable: 3
+comes along: 3
+in something: 3
+how well: 3
+life to: 3
+facing: 3
+city by: 3
+warrior: 3
+the iranian: 3
+that there: 3
+shockingly: 3
+the holocaust: 3
+think that: 3
+does its: 3
+won: 3
+20 years: 3
+screenwriters: 3
+i saw: 3
+punctuated: 3
+punctuated by: 3
+of relationships: 3
+love to: 3
+there to: 3
+simply and: 3
+revealed: 3
+burst: 3
+code: 3
+a-list: 3
+immediacy: 3
+treats: 3
+captivates: 3
+a grand: 3
+available: 3
+west: 3
+the west: 3
+comic relief: 3
+duke is: 3
+those in: 3
+wry and: 3
+psychology: 3
+spirited away: 3
+energy of: 3
+not particularly: 3
+biggest: 3
+the biggest: 3
+alabama isn't: 3
+images are: 3
+can never: 3
+the perspective: 3
+300: 3
+of russian: 3
+se: 3
+events of: 3
+the word: 3
+testimony: 3
+measure of: 3
+the ensemble: 3
+in tone: 3
+in american: 3
+those movies: 3
+than you: 3
+never quite: 3
+an eloquent: 3
+middle age: 3
+complaint: 3
+depth of: 3
+but what's: 3
+war-torn: 3
+woven: 3
+the humanity: 3
+cheeky: 3
+to help: 3
+belt: 3
+showtime: 3
+and about: 3
+you laugh: 3
+this rich: 3
+image of: 3
+skins: 3
+seek: 3
+action movie: 3
+throughout this: 3
+some ways: 3
+just for: 3
+lush: 3
+romance tragedy: 3
+benjamins: 3
+consistently funny: 3
+heartbreakingly: 3
+spinning: 3
+and forth: 3
+really do: 3
+gravity: 3
+laid: 3
+tenacious: 3
+bravery: 3
+and amazing: 3
+of childhood: 3
+missing a: 3
+salton: 3
+salton sea: 3
+enjoy the: 3
+dedication: 3
+more about: 3
+base: 3
+alluring: 3
+animals: 3
+and uplifting: 3
+unconditional: 3
+unconditional love: 3
+watch the: 3
+parallels: 3
+goldmember: 3
+corner: 3
+corner of: 3
+smarter than: 3
+more successful: 3
+a job: 3
+best actors: 3
+still entertaining: 3
+subject and: 3

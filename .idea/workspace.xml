@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fed1ec4-2c72-479f-a11d-1687e59c4b34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rt_polarity_negative.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rt_polarity_positive.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
     </list>
@@ -79,7 +77,7 @@
       <updated>1626119836104</updated>
       <workItem from="1626119848753" duration="188000" />
       <workItem from="1626152827665" duration="729000" />
-      <workItem from="1626187809317" duration="6135000" />
+      <workItem from="1626187809317" duration="11737000" />
     </task>
     <servers />
   </component>
@@ -94,28 +92,28 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1626158242213" />
-    <state width="1237" height="523" key="GridCell.Tab.0.bottom" timestamp="1626194714865">
+    <state width="1237" height="261" key="GridCell.Tab.0.bottom" timestamp="1626200371708">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="523" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1626194714865" />
-    <state width="1237" height="523" key="GridCell.Tab.0.center" timestamp="1626194714865">
+    <state width="1237" height="261" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1626200371708" />
+    <state width="1237" height="261" key="GridCell.Tab.0.center" timestamp="1626200371708">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="523" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1626194714865" />
-    <state width="1237" height="523" key="GridCell.Tab.0.left" timestamp="1626194714864">
+    <state width="1237" height="261" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1626200371707" />
+    <state width="1237" height="261" key="GridCell.Tab.0.left" timestamp="1626200371707">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="523" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1626194714864" />
-    <state width="1237" height="523" key="GridCell.Tab.0.right" timestamp="1626194714865">
+    <state width="1237" height="261" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1626200371707" />
+    <state width="1237" height="261" key="GridCell.Tab.0.right" timestamp="1626200371708">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="523" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1626194714865" />
+    <state width="1237" height="261" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1626200371708" />
     <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1626152845675">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1626152845675" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Artificial_Intelligence_Project4$Main.coverage" NAME="Main Coverage Results" MODIFIED="1626194708616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Artificial_Intelligence_Project4$Main.coverage" NAME="Main Coverage Results" MODIFIED="1626200349560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
