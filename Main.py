@@ -199,102 +199,147 @@ while i < len(negative_words_keys):
 # output_file.close()
 
 while True:
+    print("Enter the number of probabilistic method you want to use: ")
+    print("1) Bigram")
+    print("2) Unigram")
+    input_probabilistic_method = input()
+    if int(input_probabilistic_method) == 1 or int(input_probabilistic_method) == 2:
+        break
+    else:
+        print("Invalid input")
+
+
+while True:
     input_sentence = input("Enter the sentence: ")
     if input_sentence == "!q":
         print("GOOD LUCK ;))")
         break
     else:
-        # Calculating the probability of the sentence by both dictionaries
-        words_list = input_sentence.split()
-        redundant_words = []
-        i = 0
-        while i < len(words_list):
-            if words_list[i] == "." or words_list[i] == "," or words_list[i] == "  " or words_list[i] == ";" or \
-                    words_list[i] == "\"" or words_list[i] == "\'" or words_list[i] == "*" or words_list[i] == "(" or \
-                    words_list[i] == ")" or words_list[i] == "--" or words_list[i] == "-" \
-                    or words_list[i] == "?" or words_list[i] == "!" or words_list[i] == "&" or words_list[i] == ":" or \
-                    words_list[i] == "." or words_list[i] == "و":
-                redundant_words.append(words_list[i])
+        if input_probabilistic_method == "1":
+            # Calculating the probability of the sentence by both dictionaries
+            words_list = input_sentence.split()
+            redundant_words = []
+            i = 0
+            while i < len(words_list):
+                if words_list[i] == "." or words_list[i] == "," or words_list[i] == "  " or words_list[i] == ";" or \
+                        words_list[i] == "\"" or words_list[i] == "\'" or words_list[i] == "*" or words_list[
+                    i] == "(" or \
+                        words_list[i] == ")" or words_list[i] == "--" or words_list[i] == "-" \
+                        or words_list[i] == "?" or words_list[i] == "!" or words_list[i] == "&" or words_list[
+                    i] == ":" or \
+                        words_list[i] == "." or words_list[i] == "و":
+                    redundant_words.append(words_list[i])
 
-            i += 1
-        for i in redundant_words:
-            words_list.remove(i)
+                i += 1
+            for i in redundant_words:
+                words_list.remove(i)
 
+            if words_list[0] in positive_words_dictionary:
+                p_w1 = positive_words_dictionary[words_list[0]][1]
 
-
-
-        if words_list[0] in positive_words_dictionary:
-            p_w1 = positive_words_dictionary[words_list[0]][1]
-
-        else:
-            p_w1 = 0
-
-
-
-        lambda1 = 0.1
-        lambda2 = 0.4
-        lambda3 = 0.5
-        epsilon = 0.01
-        multiply = 1
-        i = 1
-        while i < len(words_list):
-            last_word = words_list[i - 1]
-            pair = last_word + " " + words_list[i]
-            if pair in positive_words_dictionary:
-                p_pair = positive_words_dictionary[pair][1]
             else:
-                p_pair = 0
+                p_w1 = 0
 
-            if words_list[i] in positive_words_dictionary:
-                p_word = positive_words_dictionary[words_list[i]][1]
+            lambda1 = 0.1
+            lambda2 = 0.4
+            lambda3 = 0.5
+            epsilon = 0.01
+            multiply = 1
+            i = 1
+            while i < len(words_list):
+                last_word = words_list[i - 1]
+                pair = last_word + " " + words_list[i]
+                if pair in positive_words_dictionary:
+                    p_pair = positive_words_dictionary[pair][1]
+                else:
+                    p_pair = 0
+
+                if words_list[i] in positive_words_dictionary:
+                    p_word = positive_words_dictionary[words_list[i]][1]
+                else:
+                    p_word = 0
+
+                multiply = multiply * (lambda3 * p_pair + lambda2 * p_word + lambda1 * epsilon)
+                i += 1
+
+            if p_w1 == 0:
+                positive_comment_probability = multiply
             else:
-                p_word = 0
+                positive_comment_probability = p_w1 * multiply
 
+            if words_list[0] in negative_words_dictionary:
+                p_w1 = negative_words_dictionary[words_list[0]][1]
 
-            multiply = multiply * (lambda3 * p_pair + lambda2 * p_word + lambda1 * epsilon)
-            i += 1
-
-        if p_w1 == 0:
-            positive_comment_probability = multiply
-        else:
-            positive_comment_probability = p_w1 * multiply
-
-        if words_list[0] in negative_words_dictionary:
-            p_w1 = negative_words_dictionary[words_list[0]][1]
-
-        else:
-            p_w1 = 0
-
-
-        multiply = 1
-        i = 1
-        while i < len(words_list):
-            last_word = words_list[i - 1]
-            pair = last_word + " " + words_list[i]
-            if pair in negative_words_dictionary:
-                p_pair = negative_words_dictionary[pair][1]
             else:
-                p_pair = 0
+                p_w1 = 0
 
-            if words_list[i] in negative_words_dictionary:
-                p_word = negative_words_dictionary[words_list[i]][1]
+            multiply = 1
+            i = 1
+            while i < len(words_list):
+                last_word = words_list[i - 1]
+                pair = last_word + " " + words_list[i]
+                if pair in negative_words_dictionary:
+                    p_pair = negative_words_dictionary[pair][1]
+                else:
+                    p_pair = 0
+
+                if words_list[i] in negative_words_dictionary:
+                    p_word = negative_words_dictionary[words_list[i]][1]
+                else:
+                    p_word = 0
+
+                multiply = multiply * (lambda3 * p_pair + lambda2 * p_word + lambda1 * epsilon)
+                i += 1
+
+            if p_w1 == 0:
+                negative_comment_probability = multiply
             else:
-                p_word = 0
+                negative_comment_probability = p_w1 * multiply
 
-            multiply = multiply * (lambda3 * p_pair + lambda2 * p_word + lambda1 * epsilon)
-            i += 1
+            if positive_comment_probability > negative_comment_probability:
+                print("not filter this")
 
-        if p_w1 == 0:
-            negative_comment_probability = multiply
-        else:
-            negative_comment_probability = p_w1 * multiply
+            else:
+                print("filter this")
 
-        if positive_comment_probability > negative_comment_probability:
-            print("not filter this")
+        # Unigram method is implemented here
+        if input_probabilistic_method == "2":
+            words_list = input_sentence.split()
+            redundant_words = []
+            i = 0
+            while i < len(words_list):
+                if words_list[i] == "." or words_list[i] == "," or words_list[i] == "  " or words_list[i] == ";" or \
+                        words_list[i] == "\"" or words_list[i] == "\'" or words_list[i] == "*" or words_list[
+                    i] == "(" or \
+                        words_list[i] == ")" or words_list[i] == "--" or words_list[i] == "-" \
+                        or words_list[i] == "?" or words_list[i] == "!" or words_list[i] == "&" or words_list[
+                    i] == ":" or \
+                        words_list[i] == "." or words_list[i] == "و":
+                    redundant_words.append(words_list[i])
 
-        else:
-            print("filter this")
+                i += 1
+            for i in redundant_words:
+                words_list.remove(i)
 
+            positive_comment_probability = 1
+            for word in words_list:
+                if word in positive_words_dictionary:
+                    positive_comment_probability = positive_words_dictionary[word][1] * positive_comment_probability
+
+            negative_comment_probability = 1
+            for word in words_list:
+                if word in negative_words_dictionary:
+                    negative_comment_probability = negative_words_dictionary[word][1] * negative_comment_probability
+
+            if positive_comment_probability == 1 or negative_comment_probability == 1:
+                print("filter this")
+                continue
+
+            if positive_comment_probability > negative_comment_probability:
+                print("not filter this")
+
+            else:
+                print("filter this")
 
 
 
