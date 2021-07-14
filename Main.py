@@ -57,6 +57,18 @@ negative_comments_list = []
 positive_comments_list = []
 file_reader("rt_polarity_positive.txt", positive_comments_list)
 file_reader("rt_polarity_negative.txt", negative_comments_list)
+# Removing last 10 sentences of lists to save them for testing
+i = 0
+while i < 9:
+    positive_comments_list.pop(len(positive_comments_list) - 1)
+    i += 1
+
+i = 0
+while i < 9:
+    negative_comments_list.pop(len(negative_comments_list) - 1)
+    i += 1
+
+
 positive_words_dictionary = {}
 negative_words_dictionary = {}
 bigram_dictionary_generator(positive_comments_list, positive_words_dictionary)
@@ -177,14 +189,123 @@ while i < len(negative_words_keys):
 
 
 # Dictionary printer
-output_file = open("positive_output.txt", "wt")
-for i in positive_words_dictionary:
-    output_file.write(i + ": " + str(positive_words_dictionary[i]) + "\n")
-output_file.close()
-output_file = open("negative_output.txt", "wt")
-for i in negative_words_dictionary:
-    output_file.write(i + ": " + str(negative_words_dictionary[i]) + "\n")
-output_file.close()
+# output_file = open("positive_output.txt", "wt")
+# for i in positive_words_dictionary:
+#     output_file.write(i + ": " + str(positive_words_dictionary[i]) + "\n")
+# output_file.close()
+# output_file = open("negative_output.txt", "wt")
+# for i in negative_words_dictionary:
+#     output_file.write(i + ": " + str(negative_words_dictionary[i]) + "\n")
+# output_file.close()
+
+while True:
+    input_sentence = input("Enter the sentence: ")
+    if input_sentence == "!q":
+        print("GOOD LUCK ;))")
+        break
+    else:
+        # Calculating the probability of the sentence by both dictionaries
+        words_list = input_sentence.split()
+        redundant_words = []
+        i = 0
+        while i < len(words_list):
+            if words_list[i] == "." or words_list[i] == "," or words_list[i] == "  " or words_list[i] == ";" or \
+                    words_list[i] == "\"" or words_list[i] == "\'" or words_list[i] == "*" or words_list[i] == "(" or \
+                    words_list[i] == ")" or words_list[i] == "--" or words_list[i] == "-" \
+                    or words_list[i] == "?" or words_list[i] == "!" or words_list[i] == "&" or words_list[i] == ":" or \
+                    words_list[i] == "." or words_list[i] == "و":
+                redundant_words.append(words_list[i])
+
+            i += 1
+        for i in redundant_words:
+            words_list.remove(i)
+
+
+
+
+        if words_list[0] in positive_words_dictionary:
+            p_w1 = positive_words_dictionary[words_list[0]][1]
+
+        else:
+            p_w1 = 0
+
+
+
+        lambda1 = 0.1
+        lambda2 = 0.4
+        lambda3 = 0.5
+        epsilon = 0.01
+        multiply = 1
+        i = 1
+        while i < len(words_list):
+            last_word = words_list[i - 1]
+            pair = last_word + " " + words_list[i]
+            if pair in positive_words_dictionary:
+                p_pair = positive_words_dictionary[pair][1]
+            else:
+                p_pair = 0
+
+            if words_list[i] in positive_words_dictionary:
+                p_word = positive_words_dictionary[words_list[i]][1]
+            else:
+                p_word = 0
+
+
+            multiply = multiply * (lambda3 * p_pair + lambda2 * p_word + lambda1 * epsilon)
+            i += 1
+
+        if p_w1 == 0:
+            positive_comment_probability = multiply
+        else:
+            positive_comment_probability = p_w1 * multiply
+
+        if words_list[0] in negative_words_dictionary:
+            p_w1 = negative_words_dictionary[words_list[0]][1]
+
+        else:
+            p_w1 = 0
+
+
+        multiply = 1
+        i = 1
+        while i < len(words_list):
+            last_word = words_list[i - 1]
+            pair = last_word + " " + words_list[i]
+            if pair in negative_words_dictionary:
+                p_pair = negative_words_dictionary[pair][1]
+            else:
+                p_pair = 0
+
+            if words_list[i] in negative_words_dictionary:
+                p_word = negative_words_dictionary[words_list[i]][1]
+            else:
+                p_word = 0
+
+            multiply = multiply * (lambda3 * p_pair + lambda2 * p_word + lambda1 * epsilon)
+            i += 1
+
+        if p_w1 == 0:
+            negative_comment_probability = multiply
+        else:
+            negative_comment_probability = p_w1 * multiply
+
+        if positive_comment_probability > negative_comment_probability:
+            print("not filter this")
+
+        else:
+            print("filter this")
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
